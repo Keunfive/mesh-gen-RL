@@ -28,37 +28,33 @@ class graph_plot:
             print ('Error: Creating directory. ' +  directory)
 
 
-    def State_Reward_plot(self, plot_dict, episode = None):
-        reward_list = plot_dict['reward']
-        self.createFolder('State_Reward')
-        plt.figure(dpi = 350)
-        for i in range(len(reward_list)-1):
-            plt.plot(reward_list[i][:], label=f'Layer[{i+1}]', color = self.colors[i%(self.n_actions)])
-            plt.xlabel('State')
-            plt.ylabel('Reward')
-
-        plt.legend(loc=(1.0, 0), ncol = 1, fontsize = 8.9531 )
-        plt.ylim([0, 1])
-        plt.title(f'State - Reward (Episode: {episode+1})')
-        if episode != None:
-            plt.savefig(f'State_Reward/State_Reward_epi_{episode+1}.jpg', dpi = 350, bbox_inches = 'tight')
-        plt.close()
-
-
-    def Episode_Reward_plot(self, reward_episode, episode = None):
+    def Episode_Reward_train_plot(self, reward_episode, episode = None):
         episode_num = [i for i in range(1,len(reward_episode)+1)]
-        self.createFolder('Episode_reward')
+        self.createFolder('Episode_reward_train')
         plt.figure(dpi = 350)
         plt.plot(episode_num, reward_episode, color = 'black')
         plt.xlabel("Episode")
         plt.ylabel("Reward")
         plt.title('Episode - Accumulated Reward')
         if episode != None:
-            plt.savefig(f'Episode_reward/Episode_Reward_epi_{episode}.jpg', dpi = 350)
+            plt.savefig(f'Episode_reward_train/Episode_Reward_epi_{episode}.jpg', dpi = 350)
         plt.clf()
         plt.close("all")
-        with open(f'Episode_reward/reward_epi_{episode}.p', 'wb') as fe:    
+        with open(f'Episode_reward_train/reward_epi_{episode}.p', 'wb') as fe:    
             pickle.dump(reward_episode, fe)
         
 
-
+    def Episode_Reward_inf_plot(self, reward_inf_list, episode = None):
+        episode_num = [i for i in range(5,5*len(reward_inf_list)+1,5)]
+        self.createFolder('Episode_reward_inf')
+        plt.figure(dpi = 350)
+        plt.plot(episode_num, reward_inf_list, color = 'black')
+        plt.xlabel("Episode")
+        plt.ylabel("Reward")
+        plt.title('Episode - Accumulated Reward(Inference)')
+        if episode != None:
+            plt.savefig(f'Episode_reward_inf/Episode_Reward_epi_{episode}.jpg', dpi = 350)
+        plt.clf()
+        plt.close("all")
+        with open(f'Episode_reward_inf/reward_epi_{episode}.p', 'wb') as fe:    
+            pickle.dump(reward_inf_list, fe)

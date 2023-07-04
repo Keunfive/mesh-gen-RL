@@ -33,7 +33,7 @@ def training_step_mean_DDQN(model, model_target, replay_memory):
 
     """Target Q value 계산 [DDQN]"""
     "next state normalization"
-    next_state_new = get_state.get_new_state_1s(next_state)
+    next_state_new = get_state.get_new_state_2(next_state)
     next_Q, next_action = get_next_action(model, model_target, next_state_new)
     next_mask = tf.cast(tf.one_hot(next_action, p.n_actions), tf.float64)
     max_next_Q = tf.reduce_sum(next_Q * next_mask, axis=1, keepdims=False)
@@ -50,7 +50,7 @@ def training_step_mean_DDQN(model, model_target, replay_memory):
 
     """Q value 예측 [DDQN]"""
     "state normalization"
-    state_new = tf.convert_to_tensor(get_state.get_new_state_1s(state))
+    state_new = tf.convert_to_tensor(get_state.get_new_state_2(state))
     "neighborhood actions"
     action_neighbor = get_action_neighbor_batch(action)
     "action masking"

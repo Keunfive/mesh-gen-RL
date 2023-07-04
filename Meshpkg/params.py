@@ -6,7 +6,7 @@ from tensorflow import keras
 """
 [Mesh shape]
 """
-mesh_name = 'spline_1'
+mesh_name = 'spline_1_1'
 surf_mesh = get_surf_mesh(mesh_name)
 surf_length = len(surf_mesh)
 first_layer = 0.005
@@ -25,9 +25,9 @@ Neighborhood actions - 어떤 형태로 들어가는지
 <num_iter>
 Neighborhood actions 계산하기 위해 iteration 몇번 돌리는지
 """
-num_neighbor = 5
-act_shape = 0
-num_iter = 4
+num_neighbor = 16
+act_shape = 2
+num_iter =5
 
 """
 [Action 정의]
@@ -39,34 +39,36 @@ n_actions = len(action_space)
 [DQN 관련]
 Target Q계산시 할인율
 """
-discount_rate = 0.99
+discount_rate = 0.999
+# 몇 episode마다 target model update할 건지
 episode_target = 5
-
+# target model update 시 (tau)만큼 online model에서, (1 - tau)만큼 target model에서
+tau = 0.005
 """
 [Replay memory 관련]
 Buffer/Batch size
 """
-buffer_size = 128
-batch_size = 32
+buffer_size = 5000
+batch_size = 128
 
 """
 [Policy 관련]
 Policy 선택: Epsilon greedy = 0, Softmax = 1
 """
-policy = 1
+policy = 0
 "Softmax policy temperature"
 temp = 1
 "epsilon greedy policy parameters: 0.01 도달까지  0.999일경우 (4605 episode), 0.99일 경우 (459 episode)"
-epsilon_start = 0.999
+epsilon_start = 0.99
 epsilon_min = 0.01
 
 """
 [Neural network model training 관련]
 """
 loss_fn = keras.losses.mean_squared_error
-learning_rate = 0.001
+learning_rate = 0.0005
 optimizer = keras.optimizers.Adam(learning_rate = learning_rate)
-hidden_node = 64
+hidden_node = 128
 
 """
 [Plot관련] 

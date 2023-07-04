@@ -32,7 +32,7 @@ def get_new_state_2(x_state):
                 new_state[i, j, 0] = math.cos(theta_rot) * x_ref + math.sin(theta_rot) * y_ref
                 new_state[i, j, 1] = - math.sin(theta_rot) * x_ref + math.cos(theta_rot) * y_ref
 
-        length_ratio = 1 / np.sqrt(pow(new_state[i, p.num_neighbor + 1, 0], 2) + pow(new_state[i, p.num_neighbor + 1, 1], 2))
+        length_ratio = 0.1 / np.sqrt(pow(new_state[i, p.num_neighbor + 1, 0], 2) + pow(new_state[i, p.num_neighbor + 1, 1], 2))
 
         for k in range(p.num_neighbor * 2 + 1):
             if k != p.num_neighbor:

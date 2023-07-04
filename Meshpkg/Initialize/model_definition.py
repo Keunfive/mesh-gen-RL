@@ -12,7 +12,7 @@ class NNmodel:
         self.hidden_node = p.hidden_node
         self.loss_fn = p.loss_fn
         self.optimizer = p.optimizer
-        self.state_input = (self.num_neighbor*2+1 -1)*2
+        self.state_input = (self.num_neighbor*2+1 -2)*2
         
         if p.act_shape == 0: # [1,2]
             self.action_input = 2

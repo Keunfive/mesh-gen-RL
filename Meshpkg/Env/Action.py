@@ -49,7 +49,7 @@ def get_action(model, volume_mesh, epsilon = None, num_iter = p.num_iter):
     action = tf.convert_to_tensor(np.random.randint(p.n_actions, size = p.surf_length))
     "state 가져오기"
     state_raw = get_state.layer_to_state(volume_mesh[-1]) # (34, 11, 2)
-    state = get_state.get_new_state_1s(np.array(state_raw)) # (34, 19)
+    state = get_state.get_new_state_2(np.array(state_raw)) # (34, 19)
     for m in range(num_iter):
         state_input_list = [ ]
         action_neighbor_list = [ ]

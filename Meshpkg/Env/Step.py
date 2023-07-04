@@ -59,7 +59,7 @@ class step_class:
       self.volume_mesh.append(np.array(next_layer))
       next_state = layer_to_state(next_layer)
       r = get_reward(self.volume_mesh)
-      reward = 0.1 * r.get_skew() + 0.6 *r.get_length_ratio()+ 0.3 *r.get_jacobian()[0]
+      reward = 10 * (0.5 * r.get_skew() + 0.2 *r.get_length_ratio()+ 0.3 *r.get_jacobian()[0])
       
 
       txt_file = open("reward_record.txt", 'a')
