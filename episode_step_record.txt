@@ -996,3 +996,73 @@
 <episode: 447> Step ended: 30   Time per episode: 0:00:19 (Total: 1:11:24)
  
 <episode: 448> Step ended: 29   Time per episode: 0:00:19 (Total: 1:11:43)
+ 
+<episode: 449> Step ended: 26   Time per episode: 0:00:20 (Total: 1:12:04)
+ 
+<episode: 450> Step ended: 24   Time per episode: 0:00:20 (Total: 1:12:24)
+ 
+<episode: 451> Step ended: 19   Time per episode: 0:00:31 (Total: 1:12:56)
+ 
+<episode: 452> Step ended: 18   Time per episode: 0:00:18 (Total: 1:13:14)
+ 
+<episode: 453> Step ended: 18   Time per episode: 0:00:23 (Total: 1:13:37)
+ 
+<episode: 454> Step ended: 25   Time per episode: 0:00:29 (Total: 1:14:07)
+ 
+<episode: 455> Step ended: 27   Time per episode: 0:00:23 (Total: 1:14:30)
+ 
+<episode: 456> Step ended: 28   Time per episode: 0:00:25 (Total: 1:14:56)
+ 
+<episode: 457> Step ended: 30   Time per episode: 0:00:19 (Total: 1:15:15)
+ 
+<episode: 458> Step ended: 29   Time per episode: 0:00:19 (Total: 1:15:35)
+ 
+<episode: 459> Step ended: 30   Time per episode: 0:00:19 (Total: 1:15:54)
+ 
+<episode: 460> Step ended: 30   Time per episode: 0:00:19 (Total: 1:16:14)
+ 
+<episode: 461> Step ended: 30   Time per episode: 0:00:25 (Total: 1:16:39)
+ 
+<episode: 462> Step ended: 25   Time per episode: 0:00:18 (Total: 1:16:58)
+ 
+<episode: 463> Step ended: 25   Time per episode: 0:00:18 (Total: 1:17:16)
+ 
+<episode: 464> Step ended: 24   Time per episode: 0:00:18 (Total: 1:17:35)
+ 
+<episode: 465> Step ended: 24   Time per episode: 0:00:18 (Total: 1:17:54)
+ 
+<episode: 466> Step ended: 25   Time per episode: 0:00:23 (Total: 1:18:17)
+ 
+<episode: 467> Step ended: 30   Time per episode: 0:00:19 (Total: 1:18:37)
+ 
+<episode: 468> Step ended: 25   Time per episode: 0:00:18 (Total: 1:18:56)
+ 
+<episode: 469> Step ended: 30   Time per episode: 0:00:19 (Total: 1:19:16)
+ 
+<episode: 470> Step ended: 29   Time per episode: 0:00:19 (Total: 1:19:35)
+ 
+<episode: 471> Step ended: 24   Time per episode: 0:00:23 (Total: 1:19:58)
+ 
+<episode: 472> Step ended: 30   Time per episode: 0:00:19 (Total: 1:20:18)
+ 
+<episode: 473> Step ended: 30   Time per episode: 0:00:20 (Total: 1:20:38)
+ 
+<episode: 474> Step ended: 28   Time per episode: 0:00:19 (Total: 1:20:57)
+ 
+<episode: 475> Step ended: 28   Time per episode: 0:00:19 (Total: 1:21:17)
+ 
+<episode: 476> Step ended: 26   Time per episode: 0:00:24 (Total: 1:21:41)
+ 
+<episode: 477> Step ended: 16   Time per episode: 0:00:17 (Total: 1:21:58)
+ 
+<episode: 478> Step ended: 17   Time per episode: 0:00:17 (Total: 1:22:15)
+ 
+<episode: 479> Step ended: 17   Time per episode: 0:00:17 (Total: 1:22:33)
+ 
+<episode: 480> Step ended: 17   Time per episode: 0:00:17 (Total: 1:22:50)
+ 
+<episode: 481> Step ended: 17   Time per episode: 0:00:22 (Total: 1:23:12)
+ 
+<episode: 482> Step ended: 16   Time per episode: 0:00:29 (Total: 1:23:42)
+ 
+<episode: 483> Step ended: 22   Time per episode: 0:00:26 (Total: 1:24:08)
