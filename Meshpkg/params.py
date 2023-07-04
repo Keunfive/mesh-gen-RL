@@ -25,7 +25,7 @@ Neighborhood actions - 어떤 형태로 들어가는지
 <num_iter>
 Neighborhood actions 계산하기 위해 iteration 몇번 돌리는지
 """
-num_neighbor = 16
+num_neighbor = 3
 act_shape = 2
 num_iter =5
 
