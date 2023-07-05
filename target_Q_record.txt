@@ -2883,3 +2883,59 @@ node0: -16.643 node1: -13.873 node2: -13.694 node3: -14.593 node4: -14.821 node5
 ---------Target Q for 0th batch-------------
 
 node0: -16.648 node1: -13.841 node2: -13.604 node3: -14.534 node4: -15.066 node5: -13.310 node6: -13.105 node7: -12.906 node8: -13.097 node9: -12.579 node10: -12.483 node11: -12.953 node12: -14.255 node13: -16.282 node14: -16.750 node15: -16.305 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.684 node1: -13.367 node2: -13.161 node3: -14.095 node4: -12.952 node5: -12.859 node6: -13.782 node7: -13.920 node8: -14.093 node9: -14.155 node10: -13.024 node11: -12.283 node12: -13.182 node13: -14.509 node14: -15.632 node15: -15.705 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.381 node1: 3.438 node2: 5.229 node3: 5.217 node4: 4.321 node5: 4.499 node6: 4.465 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.502 node1: -17.183 node2: -15.593 node3: -15.720 node4: -17.055 node5: -16.526 node6: -14.407 node7: -13.890 node8: -14.125 node9: -13.483 node10: -11.518 node11: -12.242 node12: -13.712 node13: -12.795 node14: -15.260 node15: -15.805 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.453 node1: -30.515 node2: -30.456 node3: -30.402 node4: -30.453 node5: -30.359 node6: -28.899 node7: -29.011 node8: -28.000 node9: -28.136 node10: -30.190 node11: -30.825 node12: -16.418 node13: -17.103 node14: -17.375 node15: -17.173 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.696 node1: -14.861 node2: -14.554 node3: -15.469 node4: -16.070 node5: -14.453 node6: -14.895 node7: -14.065 node8: -14.572 node9: -14.118 node10: -14.069 node11: -13.594 node12: -14.944 node13: -17.413 node14: -17.799 node15: -17.275 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.876 node1: 3.997 node2: 5.928 node3: 4.924 node4: -50.000 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 6.195 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.770 node1: 6.759 node2: 5.898 node3: 6.353 node4: 4.955 node5: 6.046 node6: 6.995 node7: 6.908 node8: 6.989 node9: 6.042 node10: 5.995 node11: 6.490 node12: 5.022 node13: 2.759 node14: 3.779 node15: 4.102 
+
+---------Target Q for 0th batch-------------
+
+node0: 5.802 node1: 7.287 node2: 6.663 node3: 6.910 node4: 7.250 node5: 6.129 node6: 7.158 node7: 6.134 node8: 7.643 node9: 6.337 node10: 5.992 node11: 6.238 node12: 5.342 node13: 3.001 node14: 3.267 node15: 4.266 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.706 node1: 5.729 node2: 6.551 node3: 5.023 node4: 0.000 node5: 0.000 node6: 0.000 node7: 0.000 node8: 0.000 node9: -0.000 node10: -0.000 node11: 0.000 node12: -0.000 node13: 0.000 node14: 4.178 node15: 4.763 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.727 node1: 7.654 node2: 5.898 node3: 7.018 node4: 6.847 node5: 7.129 node6: 6.857 node7: 8.018 node8: 8.813 node9: 7.282 node10: 6.824 node11: 6.900 node12: 5.075 node13: 2.758 node14: 3.646 node15: 4.042 
+
+---------Target Q for 0th batch-------------
+
+node0: 6.200 node1: 7.749 node2: 6.938 node3: 6.676 node4: 6.488 node5: 6.329 node6: 7.398 node7: 6.604 node8: 7.305 node9: 7.761 node10: 6.739 node11: 6.475 node12: 4.663 node13: 3.456 node14: 4.896 node15: 5.181 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.590 node1: 7.196 node2: 5.598 node3: 4.392 node4: -0.000 node5: 0.000 node6: -0.000 node7: 0.000 node8: -0.000 node9: 0.000 node10: 0.000 node11: 0.000 node12: 0.000 node13: 0.000 node14: 3.391 node15: 3.096 
+
+---------Target Q for 0th batch-------------
+
+node0: 6.552 node1: 6.761 node2: 6.156 node3: 6.322 node4: 4.778 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 5.449 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.641 node1: 5.199 node2: 7.535 node3: 5.509 node4: -0.000 node5: 0.000 node6: -0.000 node7: 0.000 node8: 0.000 node9: -0.000 node10: 0.000 node11: -0.000 node12: 0.000 node13: 0.000 node14: 5.706 node15: 4.722 
