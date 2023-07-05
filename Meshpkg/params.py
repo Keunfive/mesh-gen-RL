@@ -6,7 +6,9 @@ from tensorflow import keras
 """
 [Mesh shape]
 """
+# spline_1 : 하트(점 34개), spline_1_1 : 하트(점 16개)
 mesh_name = 'spline_1_1'
+
 surf_mesh = get_surf_mesh(mesh_name)
 surf_length = len(surf_mesh)
 first_layer = 0.005

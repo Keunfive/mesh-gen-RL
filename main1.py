@@ -22,8 +22,8 @@ p = mp.params
 seed = 42
 mp.Initialize.my_seed.my_seed_everywhere(42)
 
-"Episode 수"
-n_episodes = 5000
+"Episode 수" 
+n_episodes = 1000
 
 "model, target model(Double DQN) 정의"
 model = mp.Initialize.model_definition.NNmodel().dense_multi()
@@ -45,6 +45,7 @@ save_model = True
 
 "Episode - reward list/ Time initialize"
 reward_list = [ ]
+reward_inf_list = [ ]
 start = time.time()
 
 for episode in range(1, n_episodes+1): 
@@ -78,7 +79,7 @@ for episode in range(1, n_episodes+1):
                 end1 = end2
                 
             if step_ended != p.num_layer:
-                replay_memory = mp.Train.replay_penalty.penalty_reward(replay_memory, info, step_ended, 5, 3)
+                replay_memory = mp.Train.replay_penalty.penalty_reward(replay_memory, info, step_ended, 3, 3)
             break
     # step_bar.close()
     "replay memory 다 차면, episode 끝나고 model training 시작"
@@ -87,8 +88,9 @@ for episode in range(1, n_episodes+1):
         
     "episode (episode_inference)회마다 Inference"
     if episode % (episode_inference) == 0:
-        volume_mesh_inf = mp.Inference.inference.inference_step(model, episode)
+        volume_mesh_inf, reward_inf_mean = mp.Inference.inference.inference_step(model, episode)
         mp.Inference.render.render(volume_mesh_inf, episode)
+        reward_inf_list.append(reward_inf_mean)
 
     "episode (episode_target)회마다 Target model update"
     if episode % (p.episode_target) == 0:
@@ -102,7 +104,7 @@ for episode in range(1, n_episodes+1):
         with open(f'replay_memory/replay_memory_{episode}.p', 'wb') as fr:    
             pickle.dump(replay_memory, fr)
             
-        mp.Inference.graph.graph_plot().Episode_Reward_plot(reward_list, episode)
-
+        mp.Inference.graph.graph_plot().Episode_Reward_train_plot(reward_list, episode)
+        mp.Inference.graph.graph_plot().Episode_Reward_inf_plot(reward_inf_list, episode)
 
 print ('Finish at: ',str(datetime.timedelta(seconds= (time.time() - start))))

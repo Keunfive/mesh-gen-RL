@@ -811,3 +811,2075 @@ node0: -16.716 node1: -15.540 node2: -15.362 node3: -15.354 node4: -30.664 node5
 ---------Target Q for 0th batch-------------
 
 node0: -15.787 node1: -15.090 node2: -14.647 node3: -15.148 node4: -15.577 node5: -14.247 node6: -13.507 node7: -14.365 node8: -13.161 node9: -12.585 node10: -12.880 node11: -13.742 node12: -12.646 node13: -13.237 node14: -14.536 node15: -13.799 
+
+---------Target Q for 0th batch-------------
+
+node0: 5.668 node1: 6.622 node2: 7.609 node3: -50.000 node4: -50.000 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: 4.767 node15: 5.306 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.106 node1: -14.694 node2: -13.688 node3: -14.669 node4: -14.709 node5: -14.418 node6: -14.175 node7: -14.425 node8: -13.104 node9: -13.213 node10: -13.626 node11: -14.380 node12: -14.312 node13: -17.625 node14: -17.626 node15: -16.306 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.840 node1: -15.254 node2: -15.291 node3: -15.665 node4: -13.794 node5: -14.016 node6: -13.299 node7: -13.491 node8: -14.292 node9: -13.133 node10: -12.990 node11: -14.526 node12: -13.523 node13: -14.183 node14: -15.954 node15: -13.416 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.507 node1: -13.937 node2: -12.876 node3: -13.864 node4: -14.407 node5: -13.622 node6: -12.859 node7: -12.518 node8: -14.313 node9: -14.356 node10: -13.078 node11: -13.579 node12: -13.809 node13: -16.945 node14: -16.990 node15: -15.864 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.987 node1: -15.028 node2: -13.602 node3: -13.631 node4: -13.871 node5: -14.396 node6: -13.817 node7: -13.621 node8: -12.639 node9: -15.374 node10: -15.647 node11: -14.929 node12: -15.105 node13: -16.644 node14: -16.535 node15: -14.072 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.990 node1: -13.180 node2: -30.071 node3: -29.992 node4: -28.964 node5: -29.131 node6: -28.960 node7: -26.702 node8: -31.145 node9: -30.792 node10: -30.374 node11: -30.910 node12: -29.273 node13: -14.426 node14: -15.229 node15: -14.301 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.420 node1: -14.107 node2: -14.264 node3: -13.940 node4: -12.392 node5: -13.829 node6: -13.736 node7: -14.285 node8: -14.665 node9: -13.090 node10: -13.607 node11: -15.302 node12: -14.828 node13: -16.646 node14: -16.752 node15: -15.854 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.254 node1: -13.389 node2: -13.450 node3: -13.219 node4: -13.944 node5: -14.413 node6: -13.960 node7: -12.798 node8: -13.902 node9: -14.403 node10: -15.050 node11: -14.794 node12: -14.917 node13: -16.616 node14: -16.726 node15: -15.847 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.730 node1: -13.168 node2: -13.292 node3: -12.810 node4: -12.398 node5: -12.717 node6: -11.941 node7: -12.321 node8: -12.770 node9: -12.894 node10: -11.348 node11: -12.958 node12: -13.242 node13: -16.053 node14: -16.154 node15: -15.148 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.665 node1: -13.234 node2: -13.579 node3: -19.147 node4: -18.356 node5: -18.678 node6: -18.717 node7: -19.478 node8: -19.482 node9: -18.834 node10: -18.498 node11: -19.185 node12: -18.253 node13: -15.865 node14: -16.042 node15: -15.133 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.393 node1: -12.400 node2: -14.231 node3: -12.380 node4: -48.660 node5: -48.754 node6: -49.575 node7: -49.491 node8: -47.951 node9: -44.193 node10: -49.537 node11: -50.134 node12: -48.719 node13: -49.221 node14: -49.054 node15: -15.104 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.272 node1: -12.200 node2: -12.500 node3: -12.352 node4: -11.584 node5: -11.443 node6: -11.644 node7: -12.696 node8: -12.700 node9: -11.880 node10: -11.674 node11: -12.055 node12: -12.115 node13: -14.302 node14: -14.536 node15: -13.597 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.374 node1: -13.034 node2: -12.897 node3: -12.724 node4: -18.620 node5: -19.118 node6: -19.052 node7: -17.836 node8: -19.294 node9: -19.027 node10: -19.272 node11: -19.749 node12: -18.513 node13: -19.263 node14: -15.817 node15: -15.101 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.856 node1: -12.374 node2: -12.316 node3: -13.410 node4: -12.321 node5: -11.263 node6: -11.834 node7: -12.194 node8: -13.010 node9: -11.600 node10: -11.780 node11: -12.408 node12: -12.855 node13: -14.853 node14: -15.142 node15: -14.310 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.556 node1: -11.512 node2: -11.816 node3: -11.917 node4: -12.349 node5: -17.827 node6: -17.727 node7: -18.487 node8: -17.930 node9: -17.323 node10: -17.307 node11: -17.201 node12: -17.313 node13: -17.824 node14: -17.776 node15: -12.313 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.508 node1: -12.937 node2: -11.996 node3: -11.906 node4: -12.339 node5: -28.161 node6: -28.017 node7: -28.417 node8: -27.971 node9: -23.171 node10: -27.165 node11: -28.884 node12: -27.300 node13: -27.820 node14: -28.002 node15: -11.519 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.566 node1: -12.945 node2: -11.853 node3: -11.793 node4: -12.091 node5: -27.893 node6: -27.835 node7: -28.317 node8: -27.816 node9: -24.856 node10: -27.086 node11: -29.021 node12: -27.495 node13: -28.193 node14: -28.134 node15: -10.991 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.221 node1: -12.675 node2: -12.838 node3: -11.894 node4: -11.015 node5: -12.272 node6: -11.568 node7: -10.892 node8: -11.584 node9: -11.672 node10: -12.375 node11: -13.229 node12: -13.703 node13: -14.969 node14: -16.061 node15: -14.685 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.084 node1: -12.191 node2: -48.107 node3: -48.700 node4: -45.714 node5: -47.754 node6: -53.383 node7: -48.799 node8: -49.199 node9: -48.667 node10: -45.099 node11: -46.706 node12: -13.216 node13: -11.914 node14: -12.492 node15: -9.871 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.132 node1: -12.393 node2: -11.583 node3: -11.774 node4: -12.507 node5: -11.246 node6: -10.617 node7: -12.019 node8: -12.676 node9: -10.958 node10: -9.908 node11: -11.195 node12: -9.698 node13: -10.031 node14: -11.523 node15: -11.043 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.163 node1: -12.372 node2: -47.340 node3: -48.275 node4: -47.423 node5: -46.997 node6: -36.538 node7: -35.932 node8: -47.868 node9: -46.715 node10: -48.732 node11: -48.778 node12: -47.334 node13: -14.097 node14: -14.036 node15: -13.729 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.139 node1: -10.950 node2: -11.447 node3: -11.692 node4: -12.325 node5: -11.981 node6: -10.531 node7: -10.899 node8: -11.933 node9: -10.452 node10: -10.240 node11: -10.278 node12: -12.032 node13: -14.563 node14: -14.726 node15: -13.777 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.878 node1: -10.958 node2: -48.112 node3: -47.774 node4: -47.066 node5: -47.046 node6: -43.831 node7: -48.658 node8: -47.954 node9: -46.185 node10: -48.368 node11: -48.314 node12: -13.205 node13: -14.134 node14: -14.170 node15: -13.608 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.671 node1: -9.954 node2: -10.225 node3: -11.237 node4: -25.851 node5: -26.454 node6: -25.449 node7: -24.568 node8: -26.293 node9: -20.742 node10: -25.074 node11: -26.391 node12: -25.824 node13: -25.936 node14: -26.124 node15: -11.441 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.742 node1: -10.370 node2: -16.796 node3: -16.198 node4: -15.544 node5: -15.499 node6: -15.178 node7: -16.972 node8: -16.770 node9: -15.022 node10: -15.977 node11: -17.137 node12: -11.761 node13: -12.727 node14: -12.822 node15: -12.398 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.850 node1: -10.382 node2: -10.326 node3: -9.856 node4: -9.313 node5: -10.226 node6: -9.717 node7: -9.944 node8: -10.393 node9: -10.446 node10: -11.020 node11: -11.829 node12: -11.669 node13: -12.796 node14: -12.990 node15: -12.416 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.259 node1: -9.823 node2: -10.012 node3: -9.629 node4: -10.665 node5: -10.845 node6: -10.100 node7: -9.414 node8: -9.611 node9: -10.500 node10: -11.098 node11: -11.144 node12: -11.771 node13: -13.256 node14: -13.544 node15: -12.964 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.798 node1: -11.897 node2: -11.262 node3: -8.954 node4: -10.283 node5: -10.586 node6: -9.870 node7: -10.265 node8: -10.757 node9: -10.632 node10: -9.337 node11: -9.569 node12: -10.284 node13: -13.007 node14: -12.680 node15: -11.260 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.965 node1: -10.385 node2: -9.282 node3: -9.328 node4: -9.813 node5: -25.293 node6: -25.290 node7: -25.584 node8: -25.223 node9: -13.951 node10: -24.720 node11: -25.151 node12: -24.376 node13: -25.222 node14: -25.500 node15: -9.147 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.282 node1: -8.720 node2: -9.068 node3: -8.774 node4: -9.865 node5: -9.590 node6: -8.717 node7: -8.415 node8: -8.537 node9: -9.656 node10: -9.461 node11: -9.722 node12: -10.426 node13: -12.241 node14: -12.544 node15: -11.954 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.261 node1: -9.815 node2: -9.979 node3: -10.542 node4: -9.019 node5: -8.399 node6: -8.043 node7: -8.655 node8: -9.375 node9: -10.993 node10: -9.963 node11: -10.016 node12: -10.741 node13: -12.207 node14: -12.438 node15: -11.957 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.232 node1: 5.060 node2: 6.249 node3: 6.565 node4: 5.566 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 5.610 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.320 node1: -9.722 node2: -9.782 node3: -10.683 node4: -10.069 node5: -9.162 node6: -8.524 node7: -10.189 node8: -9.911 node9: -9.495 node10: -9.223 node11: -9.635 node12: -10.361 node13: -12.280 node14: -12.572 node15: -11.959 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.883 node1: -9.158 node2: -7.802 node3: -8.316 node4: -9.669 node5: -8.992 node6: -8.351 node7: -7.909 node8: -9.207 node9: -9.099 node10: -8.423 node11: -8.858 node12: -9.587 node13: -11.876 node14: -12.154 node15: -11.526 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.292 node1: 5.035 node2: 6.328 node3: 6.534 node4: 5.856 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 5.738 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.867 node1: -9.161 node2: -8.972 node3: -8.490 node4: -8.714 node5: -9.087 node6: -8.187 node7: -7.946 node8: -10.048 node9: -9.047 node10: -8.558 node11: -9.021 node12: -9.739 node13: -11.825 node14: -12.116 node15: -11.520 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.727 node1: -9.088 node2: -8.848 node3: -7.318 node4: -14.574 node5: -14.725 node6: -15.057 node7: -15.237 node8: -13.916 node9: -13.517 node10: -14.860 node11: -15.460 node12: -14.690 node13: -15.112 node14: -11.771 node15: -11.450 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.895 node1: -9.588 node2: -9.633 node3: -9.636 node4: -45.214 node5: -45.103 node6: -44.479 node7: -44.849 node8: -39.877 node9: -43.986 node10: -44.463 node11: -46.211 node12: -44.717 node13: -45.177 node14: -11.762 node15: -11.355 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.067 node1: -8.824 node2: -8.963 node3: -8.806 node4: -24.638 node5: -24.469 node6: -24.224 node7: -23.517 node8: -24.194 node9: -23.890 node10: -24.503 node11: -25.020 node12: -24.306 node13: -24.593 node14: -11.176 node15: -10.802 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.889 node1: -9.336 node2: -8.161 node3: -7.886 node4: -8.446 node5: -24.353 node6: -24.286 node7: -24.550 node8: -22.096 node9: -14.460 node10: -23.615 node11: -24.748 node12: -24.051 node13: -24.204 node14: -24.418 node15: -8.045 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.994 node1: -9.118 node2: -8.269 node3: -8.320 node4: -9.115 node5: -8.379 node6: -7.556 node7: -7.826 node8: -8.170 node9: -7.931 node10: -7.134 node11: -7.662 node12: -7.007 node13: -6.932 node14: -8.483 node15: -8.164 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.946 node1: -7.777 node2: -7.760 node3: -7.511 node4: -7.183 node5: -7.195 node6: -7.386 node7: -7.942 node8: -8.123 node9: -7.898 node10: -7.440 node11: -7.665 node12: -8.148 node13: -9.576 node14: -10.014 node15: -9.518 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.227 node1: -8.939 node2: -9.331 node3: -44.264 node4: -44.010 node5: -44.204 node6: -44.184 node7: -42.041 node8: -41.866 node9: -44.328 node10: -44.353 node11: -44.855 node12: -44.210 node13: -11.103 node14: -11.316 node15: -10.988 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.860 node1: -6.702 node2: -6.608 node3: -6.391 node4: -6.100 node5: -6.082 node6: -6.340 node7: -6.809 node8: -6.945 node9: -6.938 node10: -6.620 node11: -6.616 node12: -7.184 node13: -8.440 node14: -8.909 node15: -8.494 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.061 node1: -8.179 node2: -7.195 node3: -7.265 node4: -8.044 node5: -7.350 node6: -6.499 node7: -6.727 node8: -6.922 node9: -7.123 node10: -6.316 node11: -6.599 node12: -5.974 node13: -5.842 node14: -7.396 node15: -7.310 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.082 node1: -8.236 node2: -7.180 node3: -7.166 node4: -7.937 node5: -13.289 node6: -13.277 node7: -13.748 node8: -13.476 node9: -13.851 node10: -12.986 node11: -12.869 node12: -12.993 node13: -13.259 node14: -13.223 node15: -8.122 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.768 node1: -6.788 node2: -43.365 node3: -43.233 node4: -42.975 node5: -42.760 node6: -41.651 node7: -42.777 node8: -43.586 node9: -43.882 node10: -42.999 node11: -43.631 node12: -7.001 node13: -8.946 node14: -8.547 node15: -8.437 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.055 node1: -8.188 node2: -7.201 node3: -7.238 node4: -8.028 node5: -7.400 node6: -6.498 node7: -6.851 node8: -6.954 node9: -7.158 node10: -6.435 node11: -6.651 node12: -6.023 node13: -5.772 node14: -7.360 node15: -7.303 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.085 node1: -5.867 node2: -5.819 node3: -5.556 node4: -5.420 node5: -5.245 node6: -5.418 node7: -5.978 node8: -6.068 node9: -6.327 node10: -5.710 node11: -5.711 node12: -6.280 node13: -7.667 node14: -8.125 node15: -7.741 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.288 node1: -6.203 node2: -5.919 node3: -42.445 node4: -42.342 node5: -42.613 node6: -42.178 node7: -40.608 node8: -42.706 node9: -42.865 node10: -42.949 node11: -43.125 node12: -42.503 node13: -42.657 node14: -8.030 node15: -6.979 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.521 node1: -6.768 node2: -6.500 node3: -5.983 node4: -6.360 node5: -6.652 node6: -5.830 node7: -5.267 node8: -7.745 node9: -7.367 node10: -6.554 node11: -6.612 node12: -7.468 node13: -9.365 node14: -9.711 node15: -9.282 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.261 node1: -6.759 node2: -6.981 node3: -5.764 node4: -22.312 node5: -22.459 node6: -22.483 node7: -22.264 node8: -22.380 node9: -22.596 node10: -22.823 node11: -23.057 node12: -22.415 node13: -22.665 node14: -9.241 node15: -9.159 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.255 node1: -6.821 node2: -5.916 node3: -4.934 node4: -6.000 node5: -6.539 node6: -6.426 node7: -6.655 node8: -8.220 node9: -6.623 node10: -7.456 node11: -9.161 node12: -8.399 node13: -9.066 node14: -9.175 node15: -9.179 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.098 node1: -5.435 node2: -5.427 node3: -5.996 node4: -6.880 node5: -5.926 node6: -5.109 node7: -5.423 node8: -5.499 node9: -5.793 node10: -5.063 node11: -5.529 node12: -5.497 node13: -5.697 node14: -9.320 node15: -8.850 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.042 node1: -6.311 node2: -4.876 node3: -5.294 node4: -6.565 node5: -6.247 node6: -5.108 node7: -5.396 node8: -7.308 node9: -6.388 node10: -6.331 node11: -6.145 node12: -7.061 node13: -8.825 node14: -9.202 node15: -8.825 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.797 node1: -6.888 node2: -5.897 node3: -5.949 node4: -6.802 node5: -6.027 node6: -5.158 node7: -5.407 node8: -5.887 node9: -5.911 node10: -5.012 node11: -5.276 node12: -4.721 node13: -4.556 node14: -6.090 node15: -6.091 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.824 node1: -7.023 node2: -5.922 node3: -5.620 node4: -21.837 node5: -21.971 node6: -21.824 node7: -22.187 node8: -20.872 node9: -21.199 node10: -21.643 node11: -22.340 node12: -21.730 node13: -21.897 node14: -6.153 node15: -6.009 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.014 node1: -6.485 node2: -6.847 node3: -12.015 node4: -11.738 node5: -11.953 node6: -11.899 node7: -12.386 node8: -11.682 node9: -12.345 node10: -11.723 node11: -12.156 node12: -11.781 node13: -8.686 node14: -9.203 node15: -8.796 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.176 node1: -4.822 node2: -5.273 node3: -5.265 node4: -6.306 node5: -5.358 node6: -4.510 node7: -4.879 node8: -4.163 node9: -5.271 node10: -4.950 node11: -5.215 node12: -6.101 node13: -8.338 node14: -8.727 node15: -8.201 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.931 node1: -6.465 node2: -5.250 node3: -5.304 node4: -6.117 node5: -5.274 node6: -4.565 node7: -4.904 node8: -5.165 node9: -4.713 node10: -4.459 node11: -4.587 node12: -4.210 node13: -3.808 node14: -5.550 node15: -5.171 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.941 node1: -5.996 node2: -5.308 node3: -5.329 node4: -6.322 node5: -5.365 node6: -4.645 node7: -4.898 node8: -4.484 node9: -4.613 node10: -4.120 node11: -4.716 node12: -4.177 node13: -3.818 node14: -5.616 node15: -5.664 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.020 node1: -6.077 node2: -5.007 node3: -5.420 node4: -5.991 node5: -5.485 node6: -4.891 node7: -5.112 node8: -3.824 node9: -5.926 node10: -5.500 node11: -5.630 node12: -5.398 node13: -4.375 node14: -5.749 node15: -5.291 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.428 node1: -5.779 node2: -5.675 node3: -4.671 node4: -5.155 node5: -5.429 node6: -4.726 node7: -4.652 node8: -5.370 node9: -5.743 node10: -5.075 node11: -5.456 node12: -6.331 node13: -8.425 node14: -8.787 node15: -8.247 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.467 node1: -5.922 node2: -4.717 node3: -4.541 node4: -4.829 node5: -40.806 node6: -40.847 node7: -40.842 node8: -40.372 node9: -36.334 node10: -40.283 node11: -41.333 node12: -40.918 node13: -40.787 node14: -41.007 node15: -4.840 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.936 node1: 5.302 node2: 6.767 node3: 5.366 node4: -50.000 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: 4.346 node15: 5.117 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.837 node1: -6.138 node2: -4.602 node3: -4.774 node4: -6.554 node5: -4.614 node6: -4.024 node7: -4.307 node8: -4.190 node9: -3.837 node10: -4.566 node11: -4.558 node12: -3.934 node13: -4.779 node14: -8.113 node15: -5.954 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.266 node1: 5.619 node2: 6.886 node3: 7.484 node4: -50.000 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: 3.650 node15: 3.063 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.961 node1: -5.858 node2: -4.838 node3: -4.937 node4: -6.014 node5: -4.877 node6: -3.962 node7: -4.347 node8: -4.046 node9: -3.977 node10: -4.036 node11: -4.711 node12: -4.092 node13: -3.968 node14: -5.216 node15: -5.987 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.809 node1: -3.125 node2: -3.292 node3: -2.988 node4: -4.436 node5: -4.054 node6: -3.396 node7: -2.668 node8: -2.604 node9: -4.625 node10: -4.632 node11: -4.373 node12: -5.287 node13: -6.476 node14: -6.887 node15: -6.664 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.577 node1: -3.924 node2: -3.130 node3: -4.191 node4: -4.136 node5: -2.637 node6: -3.283 node7: -3.183 node8: -3.349 node9: -3.042 node10: -4.035 node11: -3.072 node12: -4.798 node13: -7.020 node14: -6.945 node15: -6.669 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.602 node1: -3.540 node2: -20.012 node3: -19.745 node4: -19.764 node5: -19.528 node6: -19.134 node7: -19.513 node8: -20.208 node9: -19.763 node10: -19.210 node11: -19.755 node12: -19.667 node13: -6.411 node14: -6.734 node15: -6.613 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.612 node1: -3.215 node2: -4.571 node3: -3.113 node4: -2.733 node5: -9.528 node6: -9.527 node7: -10.005 node8: -9.476 node9: -9.252 node10: -9.163 node11: -10.128 node12: -11.444 node13: -9.364 node14: -9.902 node15: -9.489 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.517 node1: -4.823 node2: -3.648 node3: -3.396 node4: -19.775 node5: -19.612 node6: -19.472 node7: -19.673 node8: -16.905 node9: -13.381 node10: -19.327 node11: -20.345 node12: -19.741 node13: -19.753 node14: -19.845 node15: -3.809 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.899 node1: -3.952 node2: -2.918 node3: -3.726 node4: -3.776 node5: -2.043 node6: -1.910 node7: -1.918 node8: -2.798 node9: -2.598 node10: -1.954 node11: -2.442 node12: -1.915 node13: -1.675 node14: -3.186 node15: -3.271 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.052 node1: -2.487 node2: -2.340 node3: -2.918 node4: -3.942 node5: -2.981 node6: -2.037 node7: -2.362 node8: -2.386 node9: -2.298 node10: -2.612 node11: -2.324 node12: -4.194 node13: -5.969 node14: -6.268 node15: -4.210 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.665 node1: -2.710 node2: -2.162 node3: -2.936 node4: -9.370 node5: -8.926 node6: -8.746 node7: -8.820 node8: -9.705 node9: -9.562 node10: -8.635 node11: -8.915 node12: -8.977 node13: -8.982 node14: -6.194 node15: -5.885 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.266 node1: -2.001 node2: -2.222 node3: -2.551 node4: -3.362 node5: -3.448 node6: -2.611 node7: -2.126 node8: -3.281 node9: -3.435 node10: -4.008 node11: -3.691 node12: -4.725 node13: -5.780 node14: -6.209 node15: -6.186 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.163 node1: -3.540 node2: -3.324 node3: -2.463 node4: -19.054 node5: -19.198 node6: -19.010 node7: -19.137 node8: -18.217 node9: -19.011 node10: -19.031 node11: -19.370 node12: -19.076 node13: -19.277 node14: -6.182 node15: -6.089 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.661 node1: -3.720 node2: -2.600 node3: -2.558 node4: -3.561 node5: -2.660 node6: -1.647 node7: -1.937 node8: -2.260 node9: -2.525 node10: -1.907 node11: -2.051 node12: -1.638 node13: -1.304 node14: -2.849 node15: -3.017 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.354 node1: 5.894 node2: 6.232 node3: 7.123 node4: -50.000 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: 3.698 node15: 3.092 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.624 node1: -2.966 node2: -3.174 node3: -2.023 node4: -8.554 node5: -8.651 node6: -8.382 node7: -8.783 node8: -8.868 node9: -7.759 node10: -8.761 node11: -8.915 node12: -8.743 node13: -8.906 node14: -8.834 node15: -5.603 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.760 node1: -3.036 node2: -1.626 node3: -1.737 node4: -8.680 node5: -8.847 node6: -8.721 node7: -8.665 node8: -8.534 node9: -8.940 node10: -8.592 node11: -8.735 node12: -8.680 node13: -8.921 node14: -5.848 node15: -5.685 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.748 node1: -3.150 node2: -3.098 node3: -3.401 node4: -2.839 node5: -1.703 node6: -1.899 node7: -1.978 node8: -3.643 node9: -2.472 node10: -3.131 node11: -3.275 node12: -4.426 node13: -5.433 node14: -5.794 node15: -5.668 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.220 node1: -3.352 node2: -2.313 node3: -2.041 node4: -3.206 node5: -2.473 node6: -18.233 node7: -18.956 node8: -19.020 node9: -18.159 node10: -17.751 node11: -18.404 node12: -18.449 node13: -18.460 node14: -18.525 node15: -18.163 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.287 node1: -3.064 node2: -3.067 node3: -1.576 node4: -8.534 node5: -8.311 node6: -8.391 node7: -8.204 node8: -9.286 node9: -8.991 node10: -8.326 node11: -8.800 node12: -8.537 node13: -8.596 node14: -5.240 node15: -5.292 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.517 node1: -1.725 node2: -2.225 node3: -1.575 node4: -1.539 node5: -18.347 node6: -18.370 node7: -18.932 node8: -18.923 node9: -18.449 node10: -18.264 node11: -18.673 node12: -18.486 node13: -18.631 node14: -18.598 node15: -5.416 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.553 node1: -2.777 node2: -1.318 node3: -1.829 node4: -3.309 node5: -2.446 node6: -1.462 node7: -1.761 node8: -1.325 node9: -2.900 node10: -2.380 node11: -2.571 node12: -3.458 node13: -5.417 node14: -5.724 node15: -5.446 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.168 node1: -3.370 node2: -2.340 node3: -2.293 node4: -3.211 node5: -2.600 node6: -1.648 node7: -1.649 node8: -2.623 node9: -2.579 node10: -2.145 node11: -1.886 node12: -1.467 node13: -0.890 node14: -2.637 node15: -2.684 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.827 node1: -2.874 node2: -1.866 node3: -1.843 node4: -2.897 node5: -1.970 node6: -0.981 node7: -1.146 node8: -1.324 node9: -1.755 node10: -0.946 node11: -1.253 node12: -0.862 node13: -0.603 node14: -2.142 node15: -2.284 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.027 node1: -2.336 node2: -2.059 node3: -1.266 node4: -1.844 node5: -2.062 node6: -1.132 node7: -0.843 node8: -2.883 node9: -2.608 node10: -2.083 node11: -2.293 node12: -3.268 node13: -4.822 node14: -5.268 node15: -5.004 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.853 node1: -2.186 node2: -1.028 node3: -1.492 node4: -17.949 node5: -17.874 node6: -17.726 node7: -18.049 node8: -17.478 node9: -16.151 node10: -18.013 node11: -18.516 node12: -18.103 node13: -18.239 node14: -4.883 node15: -4.972 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.205 node1: -2.499 node2: -0.901 node3: -1.308 node4: -2.428 node5: -2.306 node6: -1.433 node7: -1.070 node8: -2.053 node9: -1.904 node10: -2.477 node11: -2.591 node12: -3.597 node13: -4.801 node14: -5.229 node15: -5.093 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.673 node1: -1.509 node2: -1.961 node3: -38.153 node4: -38.035 node5: -37.764 node6: -34.042 node7: -34.030 node8: -38.500 node9: -37.914 node10: -37.563 node11: -38.015 node12: -38.050 node13: -4.644 node14: -4.934 node15: -4.892 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.241 node1: -1.558 node2: -1.111 node3: -0.436 node4: -7.255 node5: -7.324 node6: -6.998 node7: -7.271 node8: -6.841 node9: -6.666 node10: -6.907 node11: -7.458 node12: -7.188 node13: -7.322 node14: -4.193 node15: -4.190 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.236 node1: -1.728 node2: -1.592 node3: -1.569 node4: -1.467 node5: -0.230 node6: -0.340 node7: 0.315 node8: -3.090 node9: -1.583 node10: -1.904 node11: -2.031 node12: -3.035 node13: -3.814 node14: -4.170 node15: -4.178 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.991 node1: -0.792 node2: -1.039 node3: -1.033 node4: -1.979 node5: -7.089 node6: -7.073 node7: -7.435 node8: -7.165 node9: -6.604 node10: -7.116 node11: -7.043 node12: -7.192 node13: -7.197 node14: -7.205 node15: -2.128 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.340 node1: -1.629 node2: -1.534 node3: -2.382 node4: -1.653 node5: -0.382 node6: -0.155 node7: -0.565 node8: -0.193 node9: -1.616 node10: -1.294 node11: -1.456 node12: -2.516 node13: -3.987 node14: -4.392 node15: -4.248 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.194 node1: -1.587 node2: -0.313 node3: 0.020 node4: -1.049 node5: -1.463 node6: -1.185 node7: 0.177 node8: -1.408 node9: -1.357 node10: -0.072 node11: -2.589 node12: -3.136 node13: -3.800 node14: -4.092 node15: -4.157 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.689 node1: -1.928 node2: -0.379 node3: -36.786 node4: -36.701 node5: -36.673 node6: -36.307 node7: -34.968 node8: -34.144 node9: -36.326 node10: -37.001 node11: -37.043 node12: -36.891 node13: -3.242 node14: -3.084 node15: -1.066 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.675 node1: -1.747 node2: -0.722 node3: -0.648 node4: -1.655 node5: -0.888 node6: 0.139 node7: 0.088 node8: -0.436 node9: -0.496 node10: -0.030 node11: -0.088 node12: 0.115 node13: 0.763 node14: -0.840 node15: -1.181 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.686 node1: -1.739 node2: -0.711 node3: -0.652 node4: -1.697 node5: -0.833 node6: 0.082 node7: 0.026 node8: -0.142 node9: -0.266 node10: 0.136 node11: -0.200 node12: 0.289 node13: 0.608 node14: -0.965 node15: -1.194 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.028 node1: -2.347 node2: -0.908 node3: -0.354 node4: -1.210 node5: 0.221 node6: 0.173 node7: -0.995 node8: -1.661 node9: -0.685 node10: -0.826 node11: 0.084 node12: -0.988 node13: 0.109 node14: -2.412 node15: -0.962 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.688 node1: -0.294 node2: -0.755 node3: -0.623 node4: -1.705 node5: -0.814 node6: 0.092 node7: 0.036 node8: -0.143 node9: -0.780 node10: -0.029 node11: -0.819 node12: -1.860 node13: -3.786 node14: -4.120 node15: -3.932 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.817 node1: -0.933 node2: 0.161 node3: 0.305 node4: -5.963 node5: -6.016 node6: -5.927 node7: -6.047 node8: -6.129 node9: -6.366 node10: -5.835 node11: -6.137 node12: -5.971 node13: -6.084 node14: 0.053 node15: -0.341 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.881 node1: 0.614 node2: 0.361 node3: 0.864 node4: 0.751 node5: -5.910 node6: -5.783 node7: -5.784 node8: -6.077 node9: -5.844 node10: -5.527 node11: -6.253 node12: -6.073 node13: -6.012 node14: -6.072 node15: -2.928 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.868 node1: -0.646 node2: -0.752 node3: 1.103 node4: -36.009 node5: -35.866 node6: -35.695 node7: -34.336 node8: -33.179 node9: -35.561 node10: -35.888 node11: -36.288 node12: -36.090 node13: -36.123 node14: -2.635 node15: -2.920 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.852 node1: -0.912 node2: 0.130 node3: 0.214 node4: -0.811 node5: -0.006 node6: 0.906 node7: 0.852 node8: 0.514 node9: 0.338 node10: 0.774 node11: 0.577 node12: 0.937 node13: 1.435 node14: -0.095 node15: -0.389 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.123 node1: -0.385 node2: -0.181 node3: 0.783 node4: 0.143 node5: -0.004 node6: 0.829 node7: 1.387 node8: -0.762 node9: -0.669 node10: -0.148 node11: -0.194 node12: -1.271 node13: -2.845 node14: -3.212 node15: -3.118 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.170 node1: -0.258 node2: 0.816 node3: 0.944 node4: -0.024 node5: 0.560 node6: 1.526 node7: 1.593 node8: 0.946 node9: 1.059 node10: 1.088 node11: 1.162 node12: 1.461 node13: 2.276 node14: 0.670 node15: 0.275 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.046 node1: 1.077 node2: 1.822 node3: 1.970 node4: -35.233 node5: -35.310 node6: -35.077 node7: -34.499 node8: -35.083 node9: -35.325 node10: -35.361 node11: -35.504 node12: -35.401 node13: -35.437 node14: -1.936 node15: -2.250 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.147 node1: -0.272 node2: 0.837 node3: 1.002 node4: 0.102 node5: -5.301 node6: -5.162 node7: -5.460 node8: -5.537 node9: -5.668 node10: -5.186 node11: -5.365 node12: -5.319 node13: -5.406 node14: -5.387 node15: 0.310 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.443 node1: 0.289 node2: 0.584 node3: 1.526 node4: 1.004 node5: 0.562 node6: 1.467 node7: 1.490 node8: 0.844 node9: 0.278 node10: 1.481 node11: 0.321 node12: -0.687 node13: -2.108 node14: -2.501 node15: -2.466 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.465 node1: 0.320 node2: 1.897 node3: 1.502 node4: -0.083 node5: 0.634 node6: 1.556 node7: 2.106 node8: 0.053 node9: -0.007 node10: 0.542 node11: 0.526 node12: -0.560 node13: -2.189 node14: -2.557 node15: -2.484 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.744 node1: 0.935 node2: 0.959 node3: 0.230 node4: 0.714 node5: 1.336 node6: 2.312 node7: 2.091 node8: 2.205 node9: 0.768 node10: 0.922 node11: 0.994 node12: -0.149 node13: -1.347 node14: -1.764 node15: -1.791 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.491 node1: 0.436 node2: 1.479 node3: 1.711 node4: 0.744 node5: 1.264 node6: 2.243 node7: 2.431 node8: 1.543 node9: 1.842 node10: 1.528 node11: 1.816 node12: 2.250 node13: 2.961 node14: 1.331 node15: 0.924 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.734 node1: 1.933 node2: 1.844 node3: 2.223 node4: 0.794 node5: 1.137 node6: 2.243 node7: 2.149 node8: 2.332 node9: 0.907 node10: 0.897 node11: 0.941 node12: -0.176 node13: -1.286 node14: -1.758 node15: -1.788 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.783 node1: 0.978 node2: 1.255 node3: 2.159 node4: 1.519 node5: 1.358 node6: 2.283 node7: 2.835 node8: 0.803 node9: 0.807 node10: 1.181 node11: 1.179 node12: 0.122 node13: -1.434 node14: -1.866 node15: -1.825 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.726 node1: 0.916 node2: 0.860 node3: 0.203 node4: -4.637 node5: -4.619 node6: -4.459 node7: -4.692 node8: -4.169 node9: -4.743 node10: -4.550 node11: -4.688 node12: -4.764 node13: -4.770 node14: -1.668 node15: -1.782 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.335 node1: 1.247 node2: 2.889 node3: 2.008 node4: -4.199 node5: -4.263 node6: -4.076 node7: -4.121 node8: -3.640 node9: -3.757 node10: -4.099 node11: -4.374 node12: -4.276 node13: -4.339 node14: -1.193 node15: -1.340 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.144 node1: 5.879 node2: 6.838 node3: 7.962 node4: -50.000 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: 3.422 node15: 2.955 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.085 node1: 0.889 node2: 2.034 node3: 2.425 node4: 1.585 node5: -34.075 node6: -33.612 node7: -33.499 node8: -33.434 node9: -31.017 node10: -34.146 node11: -34.316 node12: -34.287 node13: -34.318 node14: -34.298 node15: 0.777 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.218 node1: 5.069 node2: 6.305 node3: 5.929 node4: 5.797 node5: 6.284 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.451 node1: 1.337 node2: 2.835 node3: 2.376 node4: 0.892 node5: 1.816 node6: 2.802 node7: 2.835 node8: 1.789 node9: 1.165 node10: 1.764 node11: 1.851 node12: 0.659 node13: -1.060 node14: -1.503 node15: -1.502 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.674 node1: 1.766 node2: 1.613 node3: 1.084 node4: 2.110 node5: 2.320 node6: -13.407 node7: -13.075 node8: -11.521 node9: -13.587 node10: -11.540 node11: -13.640 node12: -13.716 node13: -13.712 node14: -13.680 node15: -13.623 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.463 node1: 2.873 node2: 3.344 node3: 3.702 node4: -33.578 node5: -33.561 node6: -33.357 node7: -33.292 node8: -31.399 node9: -32.253 node10: -33.623 node11: -33.760 node12: -33.668 node13: -33.699 node14: -0.311 node15: -0.671 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.513 node1: 2.029 node2: -13.709 node3: -13.617 node4: -13.572 node5: -13.433 node6: -12.050 node7: -12.250 node8: -13.051 node9: -13.222 node10: -13.340 node11: -13.770 node12: -13.715 node13: -0.129 node14: -0.277 node15: -0.659 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.482 node1: 1.396 node2: 1.777 node3: 2.672 node4: 2.806 node5: 2.221 node6: -3.473 node7: -3.475 node8: -3.359 node9: -1.941 node10: -3.513 node11: -3.636 node12: -3.656 node13: -3.706 node14: -3.720 node15: -3.615 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.776 node1: 1.954 node2: 3.449 node3: 3.108 node4: 1.958 node5: 2.210 node6: 3.209 node7: 3.651 node8: 1.947 node9: 1.667 node10: 1.886 node11: 2.165 node12: 0.915 node13: -0.341 node14: -0.800 node15: -0.857 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.342 node1: 2.442 node2: 4.001 node3: 3.584 node4: 2.047 node5: 2.864 node6: 3.882 node7: 4.263 node8: 2.761 node9: 2.359 node10: 2.671 node11: 2.772 node12: 1.599 node13: -0.001 node14: -0.422 node15: -0.431 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.974 node1: 1.873 node2: 2.902 node3: 3.042 node4: 2.053 node5: 2.853 node6: 3.894 node7: 4.050 node8: 3.597 node9: 3.510 node10: 3.341 node11: 3.358 node12: 3.693 node13: 4.328 node14: 2.764 node15: 2.306 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.021 node1: 1.853 node2: 3.022 node3: 3.228 node4: 2.489 node5: -13.104 node6: -12.876 node7: -12.940 node8: -12.561 node9: -11.163 node10: -13.041 node11: -13.259 node12: -13.256 node13: -13.211 node14: -13.239 node15: 2.436 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.255 node1: 2.346 node2: 2.212 node3: 1.507 node4: 2.430 node5: 2.791 node6: -32.967 node7: -32.765 node8: -31.852 node9: -33.086 node10: -30.346 node11: -33.227 node12: -33.236 node13: -33.240 node14: -33.250 node15: -33.161 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.151 node1: 2.474 node2: -33.212 node3: -33.178 node4: -33.118 node5: -32.960 node6: -31.535 node7: -32.949 node8: -32.961 node9: -32.769 node10: -32.738 node11: -33.301 node12: 1.191 node13: 0.417 node14: 0.307 node15: -0.091 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.079 node1: 3.463 node2: 2.953 node3: 3.322 node4: 3.371 node5: 2.369 node6: 3.300 node7: 4.041 node8: 3.227 node9: 2.779 node10: 1.547 node11: 2.176 node12: 0.850 node13: 0.341 node14: -0.077 node15: -0.283 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.453 node1: 3.239 node2: 4.034 node3: 3.600 node4: -33.237 node5: -33.052 node6: -32.488 node7: -32.684 node8: -31.546 node9: -31.983 node10: -33.107 node11: -33.246 node12: -33.173 node13: -33.244 node14: 0.304 node15: -0.046 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.850 node1: 5.529 node2: 5.351 node3: 4.841 node4: 6.573 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.273 node1: 2.387 node2: 3.964 node3: 3.566 node4: 1.958 node5: 2.855 node6: 3.772 node7: 3.997 node8: 4.549 node9: 2.537 node10: 2.652 node11: 2.798 node12: 1.556 node13: 0.079 node14: -0.406 node15: -0.447 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.424 node1: 2.371 node2: 3.882 node3: 3.394 node4: 1.880 node5: 2.961 node6: 3.823 node7: 4.043 node8: 2.979 node9: 2.418 node10: 2.805 node11: 2.859 node12: 1.673 node13: -0.080 node14: -0.497 node15: -0.482 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.004 node1: 5.482 node2: 5.171 node3: 4.557 node4: 6.015 node5: 5.386 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.241 node1: 2.906 node2: 2.899 node3: 3.796 node4: -12.758 node5: -12.685 node6: -12.357 node7: -12.487 node8: -12.421 node9: -11.713 node10: -12.732 node11: -12.912 node12: -12.845 node13: -12.813 node14: -12.845 node15: 0.097 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.673 node1: 1.661 node2: 2.446 node3: 5.026 node4: 3.222 node5: 2.860 node6: 3.740 node7: 4.090 node8: 3.558 node9: 2.670 node10: 3.409 node11: 3.829 node12: 2.663 node13: 0.905 node14: 1.029 node15: 1.653 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.644 node1: 2.124 node2: 3.634 node3: -2.784 node4: -2.763 node5: -2.728 node6: -2.569 node7: -2.259 node8: -2.406 node9: -2.351 node10: -2.774 node11: -2.824 node12: -2.885 node13: 0.675 node14: 0.508 node15: 2.234 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.290 node1: 3.683 node2: 3.281 node3: 3.374 node4: 2.345 node5: 3.320 node6: 4.313 node7: 3.217 node8: 3.274 node9: 2.786 node10: 3.238 node11: 3.288 node12: 4.216 node13: 4.601 node14: 2.773 node15: -0.120 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.691 node1: 5.062 node2: 6.342 node3: 6.347 node4: 6.274 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 4.590 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.487 node1: 3.316 node2: 3.723 node3: 4.606 node4: 4.140 node5: 3.300 node6: 4.853 node7: 2.622 node8: 3.077 node9: 2.265 node10: 4.295 node11: 2.772 node12: 1.916 node13: 1.103 node14: 0.630 node15: 0.377 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.464 node1: 3.248 node2: 4.718 node3: 4.251 node4: 2.812 node5: 3.802 node6: 4.722 node7: 4.670 node8: 3.856 node9: 3.076 node10: 3.540 node11: 3.605 node12: 2.501 node13: 0.763 node14: 0.403 node15: 0.355 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.457 node1: 3.248 node2: 4.787 node3: 4.397 node4: 2.862 node5: 3.733 node6: 4.605 node7: 3.908 node8: 3.483 node9: 3.394 node10: 4.349 node11: 3.542 node12: 2.433 node13: 0.792 node14: 0.434 node15: 0.354 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.543 node1: 3.322 node2: 3.560 node3: 4.258 node4: 3.902 node5: 3.411 node6: 4.551 node7: 4.452 node8: 4.605 node9: 3.126 node10: 3.025 node11: 3.261 node12: 1.998 node13: 1.016 node14: 0.601 node15: 0.423 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.977 node1: 5.516 node2: 5.284 node3: 4.605 node4: 5.745 node5: 5.706 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.183 node1: 3.720 node2: 4.134 node3: 5.031 node4: -11.858 node5: -11.813 node6: -11.676 node7: -11.696 node8: -9.837 node9: -11.350 node10: -11.928 node11: -12.048 node12: -11.978 node13: -11.959 node14: 1.442 node15: 1.018 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.142 node1: 3.634 node2: 3.743 node3: 5.452 node4: -11.853 node5: -11.806 node6: -11.714 node7: -11.659 node8: -10.082 node9: -11.735 node10: -11.897 node11: -12.001 node12: -11.990 node13: -11.993 node14: 1.409 node15: 1.030 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.912 node1: 3.677 node2: 3.887 node3: 3.121 node4: 2.905 node5: 4.691 node6: 4.476 node7: 4.191 node8: 3.881 node9: 3.497 node10: 3.943 node11: 4.042 node12: 4.978 node13: 4.911 node14: 0.801 node15: 0.791 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.918 node1: 3.675 node2: 3.867 node3: 3.100 node4: 2.944 node5: 4.648 node6: 4.464 node7: 4.208 node8: 3.882 node9: 3.495 node10: 4.000 node11: 3.365 node12: 3.027 node13: 1.236 node14: 0.852 node15: 0.796 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.466 node1: 4.245 node2: 4.503 node3: 3.748 node4: 3.373 node5: 5.306 node6: 5.105 node7: 4.885 node8: 4.824 node9: 4.042 node10: 4.516 node11: 5.284 node12: 5.588 node13: 5.406 node14: 1.367 node15: 1.328 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.565 node1: 4.268 node2: 4.757 node3: 5.558 node4: 5.246 node5: 4.342 node6: 5.766 node7: 5.094 node8: 5.753 node9: 4.202 node10: 4.623 node11: 3.650 node12: 2.899 node13: 2.081 node14: 1.627 node15: 1.417 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.811 node1: 3.708 node2: 4.764 node3: 5.017 node4: 4.119 node5: -1.269 node6: -1.157 node7: -1.136 node8: -1.124 node9: -1.259 node10: -1.418 node11: -1.498 node12: -1.482 node13: -1.438 node14: -1.374 node15: 4.119 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.698 node1: 3.651 node2: 4.709 node3: 4.836 node4: 3.829 node5: 4.830 node6: 5.759 node7: 5.919 node8: 6.220 node9: 4.180 node10: 4.295 node11: 5.269 node12: 5.534 node13: 6.016 node14: 4.459 node15: 3.994 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.664 node1: 3.616 node2: 4.647 node3: 4.732 node4: 3.751 node5: 4.815 node6: 5.723 node7: 4.518 node8: 5.594 node9: 4.022 node10: 4.135 node11: 5.259 node12: 5.518 node13: 6.035 node14: 4.471 node15: 3.997 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.300 node1: 3.501 node2: 4.527 node3: 4.605 node4: 3.568 node5: 4.584 node6: 5.514 node7: 5.690 node8: 6.123 node9: 4.571 node10: 4.372 node11: 4.488 node12: 3.369 node13: 1.607 node14: 1.182 node15: 2.890 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.276 node1: 4.020 node2: 4.170 node3: 3.375 node4: 3.353 node5: 4.946 node6: 4.743 node7: 4.630 node8: 4.329 node9: 4.227 node10: 4.142 node11: 4.405 node12: 3.169 node13: 1.697 node14: 1.251 node15: 1.161 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.296 node1: 4.005 node2: 4.078 node3: 3.287 node4: 3.522 node5: 4.844 node6: -1.442 node7: -1.355 node8: -1.172 node9: -0.431 node10: -1.580 node11: -1.553 node12: -1.579 node13: -1.589 node14: -1.594 node15: -1.571 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.512 node1: 3.419 node2: 4.555 node3: 4.536 node4: 3.611 node5: 4.588 node6: 5.373 node7: 5.753 node8: 5.384 node9: 5.105 node10: 4.745 node11: 5.113 node12: 5.402 node13: 5.901 node14: 4.427 node15: 3.975 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.285 node1: 3.880 node2: 3.819 node3: 3.087 node4: 4.017 node5: 4.450 node6: -1.451 node7: -1.113 node8: 0.199 node9: -1.466 node10: -1.437 node11: -1.538 node12: -1.586 node13: -1.664 node14: -1.524 node15: -1.500 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.536 node1: 3.887 node2: 3.886 node3: 5.769 node4: -1.534 node5: -1.444 node6: -1.454 node7: -1.358 node8: -0.951 node9: -1.164 node10: -1.471 node11: -1.545 node12: -1.513 node13: -1.578 node14: 1.674 node15: 1.389 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.285 node1: 4.029 node2: 4.180 node3: 3.385 node4: 3.360 node5: -1.548 node6: -1.494 node7: -1.306 node8: -1.242 node9: -1.289 node10: -1.506 node11: -1.536 node12: -1.570 node13: -1.576 node14: -1.583 node15: 1.171 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.291 node1: 4.024 node2: 4.152 node3: 3.357 node4: 3.411 node5: -1.546 node6: -1.491 node7: -1.295 node8: -1.214 node9: -1.115 node10: -1.537 node11: -1.563 node12: -1.569 node13: -1.576 node14: -1.584 node15: 1.177 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.492 node1: 4.116 node2: -1.551 node3: -1.536 node4: -1.538 node5: -1.442 node6: -1.105 node7: -0.915 node8: -0.633 node9: -1.167 node10: -1.413 node11: -1.580 node12: -1.576 node13: 1.986 node14: 1.736 node15: 1.348 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.332 node1: 4.016 node2: 4.228 node3: 5.408 node4: 4.885 node5: 4.314 node6: 4.947 node7: 5.848 node8: 5.295 node9: 4.241 node10: 5.043 node11: 4.361 node12: 2.891 node13: 1.877 node14: 1.383 node15: 1.214 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.843 node1: 3.803 node2: 4.822 node3: 4.899 node4: 3.878 node5: 4.866 node6: 5.781 node7: 6.014 node8: 5.782 node9: 5.406 node10: 5.465 node11: 5.489 node12: 5.759 node13: 6.178 node14: 4.628 node15: 4.170 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.554 node1: 4.339 node2: 4.600 node3: 3.820 node4: 3.425 node5: 5.331 node6: 5.112 node7: 4.998 node8: 5.100 node9: 4.372 node10: 4.699 node11: 4.533 node12: 3.757 node13: 1.912 node14: 1.484 node15: 1.432 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.977 node1: 5.516 node2: 5.285 node3: 4.605 node4: 5.722 node5: 5.843 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.830 node1: 4.121 node2: 4.094 node3: 5.624 node4: -1.234 node5: -1.186 node6: -1.210 node7: -1.155 node8: -0.980 node9: -0.508 node10: -1.182 node11: -1.269 node12: -1.282 node13: -1.285 node14: 1.890 node15: 1.689 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.704 node1: 5.496 node2: 5.379 node3: 5.960 node4: 4.392 node5: 4.333 node6: 5.177 node7: 5.544 node8: 6.089 node9: 4.864 node10: 4.197 node11: 3.632 node12: 2.956 node13: 2.224 node14: 1.806 node15: 1.547 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.957 node1: 3.914 node2: 4.934 node3: 5.014 node4: 3.989 node5: 5.048 node6: 5.696 node7: 5.158 node8: 6.045 node9: 4.897 node10: 4.748 node11: 5.597 node12: 5.859 node13: 6.308 node14: 4.750 node15: 4.281 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.953 node1: 5.323 node2: 4.933 node3: 5.011 node4: 4.015 node5: 5.013 node6: 5.819 node7: 5.172 node8: 5.194 node9: 4.457 node10: 4.806 node11: 5.135 node12: 5.872 node13: 6.291 node14: 4.517 node15: 1.535 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.824 node1: 3.797 node2: 5.110 node3: 4.330 node4: 4.641 node5: 6.008 node6: 5.702 node7: 6.057 node8: 5.513 node9: 5.814 node10: 5.012 node11: 4.887 node12: 5.874 node13: 4.935 node14: 1.627 node15: 3.438 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.726 node1: 4.405 node2: 4.411 node3: 3.632 node4: 4.083 node5: 5.110 node6: -1.021 node7: -1.022 node8: -0.534 node9: -1.105 node10: -0.673 node11: -1.121 node12: -1.168 node13: -1.162 node14: -1.176 node15: -1.166 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.692 node1: 4.472 node2: 6.070 node3: 5.643 node4: 4.082 node5: 4.862 node6: 5.837 node7: 6.043 node8: 6.643 node9: 4.638 node10: 4.568 node11: 4.846 node12: 3.644 node13: 2.104 node14: 1.664 node15: 1.565 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.104 node1: 4.005 node2: 5.094 node3: 5.219 node4: 4.284 node5: 5.064 node6: -0.900 node7: -0.870 node8: -0.849 node9: -0.940 node10: -1.049 node11: -1.029 node12: -1.059 node13: -1.056 node14: -1.066 node15: -1.061 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.174 node1: 6.139 node2: 5.754 node3: 6.190 node4: 4.978 node5: 4.468 node6: 4.397 node7: 6.894 node8: 3.964 node9: 5.089 node10: 2.805 node11: 1.503 node12: 3.262 node13: 2.667 node14: 2.542 node15: 2.107 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.078 node1: 4.577 node2: 4.866 node3: 5.791 node4: 6.030 node5: -10.983 node6: -10.931 node7: -9.743 node8: -4.773 node9: -10.494 node10: -10.891 node11: -11.039 node12: -11.055 node13: -11.061 node14: -11.069 node15: 1.880 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.788 node1: 4.568 node2: 6.093 node3: 5.632 node4: 4.142 node5: 5.065 node6: 5.888 node7: 6.219 node8: 4.960 node9: 4.566 node10: 4.760 node11: 4.998 node12: 3.834 node13: 2.174 node14: 1.739 node15: 1.658 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.119 node1: 4.019 node2: 5.076 node3: 5.310 node4: 4.398 node5: -0.962 node6: -0.928 node7: -0.935 node8: -0.718 node9: -0.876 node10: -1.092 node11: -1.023 node12: -1.062 node13: -1.053 node14: -1.064 node15: 4.438 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.827 node1: 4.505 node2: 5.952 node3: 6.093 node4: -11.120 node5: -11.084 node6: -11.093 node7: -10.859 node8: -10.354 node9: -10.869 node10: -11.102 node11: -11.121 node12: -11.142 node13: -11.146 node14: 1.973 node15: 1.687 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.050 node1: 3.909 node2: 5.056 node3: 5.221 node4: 4.235 node5: 4.792 node6: -30.813 node7: -30.853 node8: -31.097 node9: -31.086 node10: -30.662 node11: -31.098 node12: -31.143 node13: -31.147 node14: -31.159 node15: -31.149 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.681 node1: 4.465 node2: 4.725 node3: 3.946 node4: 3.556 node5: 5.526 node6: 5.192 node7: 5.647 node8: 5.240 node9: 4.388 node10: 4.788 node11: 4.941 node12: 3.821 node13: 2.047 node14: 1.613 node15: 1.557 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.976 node1: 3.927 node2: 4.955 node3: 5.039 node4: 4.025 node5: 4.807 node6: 5.490 node7: 4.844 node8: 5.020 node9: 4.295 node10: 4.413 node11: 5.605 node12: 5.852 node13: 6.366 node14: 4.789 node15: 4.302 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.913 node1: 4.521 node2: 5.590 node3: 6.730 node4: 5.003 node5: 4.307 node6: 5.095 node7: 5.763 node8: 5.090 node9: 4.559 node10: 3.719 node11: 2.414 node12: 2.940 node13: 2.415 node14: 2.163 node15: 1.760 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.885 node1: 3.775 node2: 4.331 node3: 5.459 node4: 6.496 node5: 4.345 node6: -31.135 node7: -30.980 node8: -30.879 node9: -30.672 node10: -31.050 node11: -31.241 node12: -31.277 node13: -31.282 node14: -31.302 node15: -31.289 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.546 node1: 4.273 node2: 4.392 node3: 3.594 node4: 3.698 node5: 5.219 node6: 5.111 node7: 4.873 node8: 4.416 node9: 4.585 node10: 5.040 node11: 4.375 node12: 5.603 node13: 5.723 node14: 1.450 node15: 1.424 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.918 node1: 5.453 node2: 5.027 node3: 5.467 node4: 5.160 node5: -31.130 node6: -30.782 node7: -30.473 node8: -30.484 node9: -30.934 node10: -30.995 node11: -31.269 node12: -31.293 node13: -31.335 node14: -31.343 node15: 1.721 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.915 node1: 5.241 node2: 4.714 node3: 5.305 node4: 4.083 node5: 4.473 node6: 5.449 node7: 6.020 node8: 5.454 node9: 4.485 node10: 5.165 node11: 4.263 node12: 3.246 node13: 2.081 node14: 1.607 node15: 1.432 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.548 node1: 4.265 node2: 5.693 node3: 5.310 node4: 4.241 node5: 4.577 node6: 5.686 node7: 6.056 node8: 4.071 node9: 4.398 node10: 4.292 node11: 4.617 node12: 3.359 node13: 1.989 node14: 1.559 node15: 1.403 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.434 node1: 4.209 node2: 5.701 node3: 5.226 node4: 3.770 node5: 4.706 node6: 5.739 node7: 5.840 node8: 5.471 node9: 4.801 node10: 5.301 node11: 4.567 node12: 3.458 node13: 1.780 node14: 1.376 node15: 1.294 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.487 node1: 4.163 node2: 4.167 node3: 3.410 node4: 3.806 node5: 4.926 node6: 4.888 node7: 4.661 node8: 3.954 node9: 4.526 node10: 4.754 node11: 2.866 node12: 3.576 node13: 2.020 node14: 1.529 node15: 1.346 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.741 node1: 3.657 node2: 4.744 node3: 4.795 node4: 4.031 node5: 4.618 node6: 5.755 node7: 6.018 node8: 5.297 node9: 4.724 node10: 4.911 node11: 3.571 node12: 5.289 node13: 6.289 node14: 4.646 node15: 4.065 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.547 node1: 4.175 node2: 5.741 node3: 5.482 node4: 4.466 node5: 4.280 node6: 5.396 node7: 5.602 node8: 3.727 node9: 3.900 node10: 3.690 node11: 4.210 node12: 2.853 node13: 2.094 node14: 1.655 node15: 1.323 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.464 node1: 4.088 node2: 3.993 node3: 3.266 node4: 4.024 node5: -31.363 node6: -31.098 node7: -31.183 node8: -31.206 node9: -30.550 node10: -31.274 node11: -31.442 node12: -31.468 node13: -31.403 node14: -31.377 node15: 1.353 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.798 node1: 3.751 node2: 4.768 node3: 4.865 node4: 3.852 node5: 4.856 node6: 5.816 node7: 4.809 node8: 4.791 node9: 4.169 node10: 4.539 node11: 5.389 node12: 5.628 node13: 6.118 node14: 4.604 node15: 4.134 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.074 node1: 4.458 node2: 5.499 node3: 5.126 node4: -11.276 node5: -11.230 node6: -10.833 node7: -11.142 node8: -10.826 node9: -10.789 node10: -11.327 node11: -11.399 node12: -11.396 node13: -11.366 node14: 2.016 node15: 1.601 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.622 node1: 4.284 node2: 4.824 node3: 5.528 node4: 5.291 node5: 4.354 node6: 5.323 node7: 5.636 node8: 3.841 node9: 3.759 node10: 2.950 node11: 4.110 node12: 2.749 node13: 2.142 node14: 1.770 node15: 1.470 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.779 node1: 3.715 node2: 4.748 node3: 4.838 node4: 3.848 node5: 4.762 node6: 5.771 node7: 5.832 node8: 5.480 node9: 5.129 node10: 4.782 node11: 5.269 node12: 5.527 node13: 6.177 node14: 4.614 node15: 4.092 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.785 node1: 3.714 node2: 4.759 node3: 4.884 node4: 3.837 node5: 4.633 node6: 6.150 node7: 4.442 node8: 4.357 node9: 3.804 node10: 3.521 node11: 5.248 node12: 5.484 node13: 6.227 node14: 4.646 node15: 4.101 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.351 node1: 3.265 node2: 4.403 node3: 4.580 node4: 3.723 node5: 3.978 node6: 4.935 node7: 5.171 node8: 5.321 node9: 5.102 node10: 4.458 node11: 3.221 node12: 2.571 node13: 1.689 node14: 1.281 node15: 2.943 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.323 node1: 4.909 node2: 4.024 node3: 4.881 node4: -31.767 node5: -31.734 node6: -31.582 node7: -31.462 node8: -31.502 node9: -30.999 node10: -31.739 node11: -31.831 node12: -31.816 node13: -31.794 node14: 1.586 node15: 1.156 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.442 node1: 3.360 node2: -31.764 node3: -31.722 node4: -31.686 node5: -31.588 node6: -30.367 node7: -30.617 node8: -31.863 node9: -31.669 node10: -31.581 node11: -31.819 node12: -31.816 node13: 1.804 node14: 1.709 node15: 1.166 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.166 node1: 3.792 node2: 5.286 node3: 5.339 node4: 3.713 node5: 4.064 node6: 4.939 node7: 5.216 node8: 4.531 node9: 3.926 node10: 4.673 node11: 3.601 node12: 2.805 node13: 1.548 node14: 1.221 node15: 0.919 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.076 node1: 4.930 node2: 5.114 node3: 5.010 node4: 3.755 node5: 3.927 node6: 4.914 node7: 5.326 node8: 4.274 node9: 3.872 node10: 3.230 node11: 3.979 node12: 2.512 node13: 1.792 node14: 1.309 node15: 1.081 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.874 node1: 3.608 node2: 4.046 node3: 4.736 node4: 4.249 node5: 3.744 node6: 5.227 node7: 3.850 node8: 4.816 node9: 3.765 node10: 4.683 node11: 3.575 node12: 2.551 node13: 1.437 node14: 0.936 node15: 0.784 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.761 node1: 3.588 node2: 3.907 node3: 4.649 node4: 4.062 node5: 3.956 node6: 4.819 node7: 5.315 node8: 3.442 node9: 3.663 node10: 3.900 node11: 4.051 node12: 2.810 node13: 1.271 node14: 0.822 node15: 0.730 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.117 node1: 3.919 node2: 5.031 node3: 5.862 node4: 4.246 node5: 3.635 node6: 3.733 node7: 4.550 node8: 2.353 node9: 1.915 node10: 1.528 node11: 2.326 node12: 1.825 node13: 1.548 node14: 1.372 node15: 0.905 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.071 node1: 3.002 node2: 4.052 node3: 4.147 node4: 3.143 node5: -2.032 node6: -2.043 node7: -2.161 node8: -2.326 node9: -2.145 node10: -2.032 node11: -2.109 node12: -2.131 node13: -2.091 node14: -2.078 node15: 3.406 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.019 node1: 4.239 node2: 4.695 node3: 4.513 node4: -12.004 node5: -11.995 node6: -11.877 node7: -12.249 node8: -12.151 node9: -11.646 node10: -12.045 node11: -12.115 node12: -12.111 node13: -12.086 node14: 1.077 node15: 0.816 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.944 node1: 2.896 node2: 3.920 node3: 3.994 node4: 2.973 node5: 3.920 node6: 4.615 node7: 3.787 node8: 3.714 node9: 3.177 node10: 3.763 node11: 4.058 node12: 4.784 node13: 5.286 node14: 3.726 node15: 3.277 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.224 node1: 5.063 node2: 6.203 node3: 6.369 node4: 5.380 node5: 5.571 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.668 node1: 3.423 node2: 3.654 node3: 4.615 node4: 3.905 node5: 3.835 node6: 4.676 node7: 4.700 node8: 4.246 node9: 3.844 node10: 4.534 node11: 3.756 node12: 2.618 node13: 1.044 node14: 0.628 node15: 0.553 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.213 node1: 5.901 node2: 7.143 node3: 7.107 node4: 6.708 node5: 5.712 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.016 node1: 2.868 node2: 4.006 node3: 4.151 node4: 3.304 node5: 4.084 node6: 4.370 node7: -12.319 node8: -12.439 node9: -12.421 node10: -12.141 node11: -12.187 node12: -12.224 node13: -12.202 node14: -12.195 node15: -12.170 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.854 node1: 4.222 node2: -12.256 node3: -12.240 node4: -12.257 node5: -12.235 node6: -12.034 node7: -12.267 node8: -12.651 node9: -12.345 node10: -12.193 node11: -12.306 node12: -12.304 node13: 1.269 node14: 0.892 node15: 0.607 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.691 node1: 3.287 node2: 3.117 node3: 2.373 node4: 3.292 node5: 3.590 node6: -12.243 node7: -12.509 node8: -12.092 node9: -12.311 node10: -12.290 node11: -12.186 node12: -12.234 node13: -12.210 node14: -12.244 node15: -12.221 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.729 node1: 3.244 node2: 2.980 node3: 2.284 node4: 3.591 node5: -12.266 node6: -12.333 node7: -12.430 node8: -11.886 node9: -13.463 node10: -12.208 node11: -12.197 node12: -12.247 node13: -12.317 node14: -12.244 node15: 0.615 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.982 node1: 2.799 node2: 3.911 node3: 4.127 node4: 3.378 node5: -12.437 node6: -12.330 node7: -12.435 node8: -12.657 node9: -12.161 node10: -12.228 node11: -12.182 node12: -12.265 node13: -12.304 node14: -12.232 node15: 3.307 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.691 node1: 3.258 node2: 3.143 node3: 2.367 node4: 3.277 node5: 3.453 node6: -12.377 node7: -12.356 node8: -12.092 node9: -12.270 node10: -12.499 node11: -12.237 node12: -12.262 node13: -12.210 node14: -12.244 node15: -12.288 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.861 node1: 2.717 node2: 3.878 node3: 3.978 node4: 3.102 node5: 3.455 node6: -32.168 node7: -32.185 node8: -32.396 node9: -32.224 node10: -32.045 node11: -32.286 node12: -32.392 node13: -32.377 node14: -32.348 node15: -32.277 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.796 node1: 2.706 node2: 3.782 node3: 3.917 node4: 2.952 node5: 3.757 node6: -2.182 node7: -2.218 node8: -2.432 node9: -2.325 node10: -2.281 node11: -2.296 node12: -2.399 node13: -2.381 node14: -2.289 node15: -2.308 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.782 node1: 2.710 node2: 3.766 node3: 3.888 node4: 2.931 node5: 3.723 node6: 4.797 node7: 3.426 node8: 4.096 node9: 3.672 node10: 3.019 node11: 4.360 node12: 4.546 node13: 5.252 node14: 3.631 node15: 3.128 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.807 node1: 2.720 node2: 3.756 node3: 3.867 node4: 2.840 node5: 3.740 node6: 4.940 node7: 4.709 node8: 4.619 node9: 3.903 node10: 3.997 node11: 4.455 node12: 4.661 node13: 5.144 node14: 3.640 node15: 3.074 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.768 node1: 2.697 node2: 3.693 node3: 3.825 node4: 2.733 node5: 3.857 node6: 4.632 node7: 4.824 node8: 4.288 node9: 4.138 node10: 4.312 node11: 4.413 node12: 4.586 node13: 5.266 node14: 3.629 node15: 3.141 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.538 node1: 2.472 node2: 3.507 node3: 3.553 node4: 2.469 node5: -2.754 node6: -2.717 node7: -2.780 node8: -2.951 node9: -2.918 node10: -2.436 node11: -2.485 node12: -2.697 node13: -2.567 node14: -2.592 node15: 2.919 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.547 node1: 4.211 node2: 3.931 node3: 4.210 node4: 4.028 node5: 3.284 node6: -32.162 node7: -32.835 node8: -33.225 node9: -32.616 node10: -32.293 node11: -32.516 node12: -32.552 node13: -32.711 node14: -32.599 node15: -32.550 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.223 node1: 5.052 node2: 6.198 node3: 6.374 node4: 5.427 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 5.595 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.365 node1: 2.334 node2: 3.357 node3: 3.566 node4: 2.443 node5: -32.726 node6: -32.732 node7: -32.922 node8: -32.953 node9: -31.981 node10: -32.591 node11: -32.728 node12: -32.759 node13: -32.759 node14: -32.788 node15: 2.749 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.278 node1: 2.673 node2: 2.466 node3: 2.484 node4: -32.749 node5: -32.613 node6: -32.733 node7: -32.114 node8: -33.000 node9: -31.821 node10: -32.591 node11: -32.766 node12: -32.762 node13: -32.862 node14: 0.894 node15: 0.154 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.244 node1: 2.354 node2: 2.143 node3: 1.640 node4: 2.562 node5: 2.473 node6: -33.107 node7: -33.155 node8: -34.640 node9: -33.189 node10: -32.914 node11: -33.156 node12: -33.199 node13: -33.183 node14: -33.182 node15: -33.108 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.330 node1: 3.374 node2: 2.625 node3: 3.480 node4: 2.763 node5: 2.976 node6: 3.750 node7: 3.752 node8: 3.448 node9: 3.313 node10: 3.636 node11: 3.534 node12: 3.858 node13: 4.262 node14: 2.764 node15: 1.334 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.996 node1: 1.911 node2: 2.969 node3: 3.105 node4: 2.020 node5: 3.342 node6: -3.201 node7: -3.388 node8: -3.395 node9: -3.358 node10: -3.050 node11: -3.244 node12: -3.167 node13: -3.175 node14: -3.169 node15: -3.103 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.844 node1: 1.748 node2: 2.834 node3: 2.975 node4: 1.911 node5: 2.747 node6: 3.712 node7: 3.587 node8: 2.806 node9: 3.266 node10: 2.886 node11: 3.338 node12: 3.509 node13: 4.475 node14: 2.786 node15: 2.257 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.419 node1: 2.257 node2: 2.263 node3: 1.578 node4: 2.032 node5: 3.024 node6: -13.420 node7: -13.344 node8: -13.448 node9: -12.283 node10: -13.234 node11: -13.293 node12: -13.233 node13: -13.299 node14: -13.311 node15: -13.241 
+
+---------Target Q for 0th batch-------------
+
+node0: 1.258 node1: 2.773 node2: 2.150 node3: 1.584 node4: 1.199 node5: 2.643 node6: 3.320 node7: 2.346 node8: 1.944 node9: 2.297 node10: 3.128 node11: 3.103 node12: 3.369 node13: 3.945 node14: 2.143 node15: 0.933 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.815 node1: 3.131 node2: 2.593 node3: 3.317 node4: 2.356 node5: 1.835 node6: 3.440 node7: 2.485 node8: 3.152 node9: 2.078 node10: 2.769 node11: 1.253 node12: 0.684 node13: -0.114 node14: -0.563 node15: -0.837 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.488 node1: 1.440 node2: 2.465 node3: 2.651 node4: 1.581 node5: 2.427 node6: 3.237 node7: 3.437 node8: 3.086 node9: 2.871 node10: 3.028 node11: 3.159 node12: 3.428 node13: 3.867 node14: 2.300 node15: 1.901 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.444 node1: 2.652 node2: 3.464 node3: 3.508 node4: 1.606 node5: 2.843 node6: -3.707 node7: -3.673 node8: -3.486 node9: -3.657 node10: -3.192 node11: -3.671 node12: -3.560 node13: -3.632 node14: -3.631 node15: -3.540 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.775 node1: 1.893 node2: 3.300 node3: 3.867 node4: 1.988 node5: 1.987 node6: 3.444 node7: 2.417 node8: 3.175 node9: 1.941 node10: 2.891 node11: 1.701 node12: 2.123 node13: 2.713 node14: -0.992 node15: -0.744 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.902 node1: 1.806 node2: 2.269 node3: 3.014 node4: -13.787 node5: -13.937 node6: -13.751 node7: -13.677 node8: -12.518 node9: -13.897 node10: -13.772 node11: -13.986 node12: -13.892 node13: -13.915 node14: -0.716 node15: -0.969 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.534 node1: 2.272 node2: 2.103 node3: 2.830 node4: 2.732 node5: -3.841 node6: -3.711 node7: -2.879 node8: -3.427 node9: -3.426 node10: -3.859 node11: -4.168 node12: -3.930 node13: -3.855 node14: -3.808 node15: -0.851 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.944 node1: 1.721 node2: 1.748 node3: 0.918 node4: 1.483 node5: -13.896 node6: -13.841 node7: -13.662 node8: -13.127 node9: -10.608 node10: -13.887 node11: -13.897 node12: -13.910 node13: -13.918 node14: -13.809 node15: -13.788 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.964 node1: 1.695 node2: 1.689 node3: 0.901 node4: 1.468 node5: 2.336 node6: -13.874 node7: -13.683 node8: -13.554 node9: -12.483 node10: -13.852 node11: -14.130 node12: -13.878 node13: -13.932 node14: -13.909 node15: -13.715 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.126 node1: 1.173 node2: 2.184 node3: 2.316 node4: 1.375 node5: 2.092 node6: 2.977 node7: 3.381 node8: 3.046 node9: 2.730 node10: 2.207 node11: 2.571 node12: 2.891 node13: 3.510 node14: 2.041 node15: 1.692 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.160 node1: 0.798 node2: 1.836 node3: 1.898 node4: 0.871 node5: 1.786 node6: 2.709 node7: 2.981 node8: 2.804 node9: 2.238 node10: 2.350 node11: 2.347 node12: 2.677 node13: 3.141 node14: 1.592 node15: 1.228 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.230 node1: 1.520 node2: 1.696 node3: 0.836 node4: 0.618 node5: 1.991 node6: 2.363 node7: 2.630 node8: 1.640 node9: 1.402 node10: 1.590 node11: 1.618 node12: 0.539 node13: -0.992 node14: -1.475 node15: -1.252 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.387 node1: 1.326 node2: 1.623 node3: 2.755 node4: 2.177 node5: 1.454 node6: 2.319 node7: 3.031 node8: 2.495 node9: 1.538 node10: 2.275 node11: 1.089 node12: 0.193 node13: -0.963 node14: -1.417 node15: -1.461 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.048 node1: 0.787 node2: 1.888 node3: 2.088 node4: 0.979 node5: 1.339 node6: 3.151 node7: 1.392 node8: 1.217 node9: 1.705 node10: 1.416 node11: 1.255 node12: 2.432 node13: 3.326 node14: 1.734 node15: 1.281 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.062 node1: 0.766 node2: 1.924 node3: 2.039 node4: 1.042 node5: 1.925 node6: -14.220 node7: -13.897 node8: -14.054 node9: -13.789 node10: -14.034 node11: -14.378 node12: -14.320 node13: -14.351 node14: -14.396 node15: -14.227 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.746 node1: 0.951 node2: 2.124 node3: 2.272 node4: -4.900 node5: -4.970 node6: -4.968 node7: -4.592 node8: -4.157 node9: -4.843 node10: -4.846 node11: -4.979 node12: -4.834 node13: -4.899 node14: -1.752 node15: -1.822 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.617 node1: 0.213 node2: 1.417 node3: 1.391 node4: 0.375 node5: 1.461 node6: -14.819 node7: -14.700 node8: -14.644 node9: -14.142 node10: -14.624 node11: -14.892 node12: -14.813 node13: -14.854 node14: -14.909 node15: -14.774 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.624 node1: -1.264 node2: -0.128 node3: 0.345 node4: -1.086 node5: -0.662 node6: 2.068 node7: 2.076 node8: 1.789 node9: 2.208 node10: 1.231 node11: -0.568 node12: 1.082 node13: 0.676 node14: -1.554 node15: -0.663 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.634 node1: 0.187 node2: 1.074 node3: 0.447 node4: -1.428 node5: -0.260 node6: 1.005 node7: 1.384 node8: 1.845 node9: 0.877 node10: 2.094 node11: 0.812 node12: 2.445 node13: 2.678 node14: 1.114 node15: 0.834 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.964 node1: 5.529 node2: 5.336 node3: 4.631 node4: 5.615 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 2.824 
+
+---------Target Q for 0th batch-------------
+
+node0: 3.305 node1: 5.780 node2: 5.940 node3: 5.630 node4: 6.769 node5: 5.521 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: 0.455 node1: 1.157 node2: 2.118 node3: 1.092 node4: 1.844 node5: 1.301 node6: 1.510 node7: 1.632 node8: 1.778 node9: 1.842 node10: 1.801 node11: 2.010 node12: 1.445 node13: 1.399 node14: 0.628 node15: 0.268 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.271 node1: -0.296 node2: 0.752 node3: 0.802 node4: -0.321 node5: 0.605 node6: 1.473 node7: 1.667 node8: 1.365 node9: 1.338 node10: 1.237 node11: 1.309 node12: 1.810 node13: 1.968 node14: 0.616 node15: 0.145 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.273 node1: -0.459 node2: 0.774 node3: 0.697 node4: -0.323 node5: 0.550 node6: 1.926 node7: 0.141 node8: -0.540 node9: 0.017 node10: 1.030 node11: -0.163 node12: 1.400 node13: 2.122 node14: 0.524 node15: 0.142 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.246 node1: -0.270 node2: 0.716 node3: 0.898 node4: -0.298 node5: -35.288 node6: -35.564 node7: -35.444 node8: -35.275 node9: -34.307 node10: -35.021 node11: -35.527 node12: -35.469 node13: -35.533 node14: -35.593 node15: 0.257 
+
+---------Target Q for 0th batch-------------
+
+node0: 5.385 node1: 5.268 node2: 6.347 node3: 6.642 node4: 5.870 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 5.023 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.778 node1: -0.000 node2: 1.528 node3: 1.007 node4: -0.586 node5: 0.320 node6: 1.209 node7: 1.125 node8: 2.023 node9: 0.625 node10: 0.630 node11: 0.397 node12: -0.660 node13: -2.453 node14: -2.922 node15: -2.730 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.048 node1: 0.445 node2: 0.188 node3: 1.267 node4: 1.168 node5: -35.557 node6: -35.549 node7: -35.402 node8: -35.037 node9: -34.658 node10: -35.543 node11: -35.857 node12: -35.738 node13: -35.579 node14: -35.708 node15: -2.420 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.683 node1: -0.002 node2: 1.547 node3: 1.308 node4: -5.645 node5: -5.765 node6: -5.733 node7: -5.651 node8: -5.383 node9: -4.999 node10: -5.286 node11: -5.775 node12: -5.623 node13: -5.712 node14: -2.705 node15: -2.735 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.797 node1: -0.081 node2: -0.204 node3: -0.912 node4: -0.288 node5: 0.379 node6: 0.292 node7: -0.194 node8: -0.460 node9: -0.562 node10: 0.561 node11: -0.085 node12: -1.267 node13: -2.238 node14: -2.791 node15: -2.764 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.919 node1: -0.902 node2: -0.670 node3: -0.987 node4: -0.812 node5: 0.719 node6: 1.295 node7: -0.487 node8: -0.435 node9: -0.265 node10: 1.273 node11: -0.046 node12: 1.037 node13: 1.537 node14: -0.157 node15: -0.402 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.836 node1: -2.355 node2: -1.250 node3: -1.422 node4: -1.579 node5: -0.543 node6: 0.264 node7: 0.374 node8: 0.951 node9: 0.623 node10: 0.014 node11: -0.152 node12: 0.286 node13: -0.883 node14: -2.641 node15: -1.570 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.194 node1: -0.380 node2: -0.305 node3: -1.185 node4: -1.155 node5: -0.303 node6: 0.496 node7: -0.253 node8: -0.441 node9: 0.230 node10: 0.094 node11: -0.115 node12: -1.219 node13: -2.749 node14: -3.257 node15: -3.133 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.172 node1: -0.401 node2: -0.414 node3: -1.238 node4: -0.339 node5: 0.692 node6: 1.023 node7: 0.034 node8: -0.729 node9: 0.334 node10: -0.297 node11: -0.064 node12: -1.323 node13: -2.685 node14: -3.202 node15: -3.117 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.211 node1: -0.365 node2: -0.220 node3: -1.107 node4: -1.380 node5: 0.270 node6: -0.057 node7: -0.381 node8: 0.052 node9: 0.058 node10: 0.482 node11: -0.081 node12: -0.562 node13: -2.731 node14: -3.301 node15: -3.146 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.624 node1: -1.753 node2: -0.784 node3: 0.042 node4: -0.438 node5: -0.677 node6: -0.347 node7: -0.788 node8: -0.466 node9: -0.220 node10: 0.158 node11: -0.775 node12: -1.078 node13: -3.126 node14: -3.728 node15: -1.820 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.243 node1: -0.683 node2: 0.369 node3: 0.169 node4: -0.019 node5: -16.521 node6: -16.396 node7: -15.869 node8: -15.557 node9: -15.524 node10: -16.439 node11: -16.634 node12: -16.530 node13: -16.375 node14: -16.547 node15: -3.273 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.535 node1: -0.795 node2: -0.706 node3: -1.577 node4: -1.781 node5: -0.183 node6: -0.625 node7: -0.781 node8: -0.225 node9: -0.306 node10: 0.086 node11: -0.642 node12: 0.596 node13: 0.565 node14: -3.737 node15: -3.465 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.573 node1: 0.006 node2: 0.466 node3: 0.706 node4: -36.489 node5: -36.637 node6: -37.018 node7: -36.271 node8: -35.408 node9: -35.078 node10: -36.306 node11: -36.791 node12: -36.252 node13: -36.535 node14: -36.637 node15: -0.355 
+
+---------Target Q for 0th batch-------------
+
+node0: -0.844 node1: -0.383 node2: 0.576 node3: 0.998 node4: 0.045 node5: -16.777 node6: -16.963 node7: -16.455 node8: -15.511 node9: -15.473 node10: -16.283 node11: -16.734 node12: -16.333 node13: -16.383 node14: -16.622 node15: -0.713 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.234 node1: -0.512 node2: -0.468 node3: -0.817 node4: -2.001 node5: -1.164 node6: -0.350 node7: -0.792 node8: -0.388 node9: -1.007 node10: -0.837 node11: -0.886 node12: 0.285 node13: 0.519 node14: -1.060 node15: -2.422 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.185 node1: -1.452 node2: -1.343 node3: -2.286 node4: -2.118 node5: -0.774 node6: -0.959 node7: -0.887 node8: -0.830 node9: -0.632 node10: -0.616 node11: -1.566 node12: 0.096 node13: 0.106 node14: -4.342 node15: -4.125 
+
+---------Target Q for 0th batch-------------
+
+node0: -1.206 node1: -1.290 node2: -1.145 node3: -0.372 node4: -7.040 node5: -7.110 node6: -7.213 node7: -6.726 node8: -5.847 node9: -6.556 node10: -6.913 node11: -7.373 node12: -6.914 node13: -6.971 node14: -0.916 node15: -1.157 
+
+---------Target Q for 0th batch-------------
+
+node0: -3.277 node1: -1.767 node2: -1.499 node3: -1.967 node4: -1.003 node5: -1.006 node6: -0.831 node7: -0.322 node8: -0.810 node9: 0.126 node10: 0.154 node11: -0.623 node12: 0.176 node13: 0.513 node14: -1.662 node15: -2.461 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.053 node1: -1.556 node2: -1.839 node3: -2.567 node4: -1.065 node5: -1.627 node6: -36.715 node7: -36.022 node8: -35.431 node9: -36.298 node10: -36.059 node11: -37.958 node12: -36.728 node13: -37.041 node14: -37.119 node15: -36.876 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.571 node1: -1.951 node2: -0.663 node3: -0.533 node4: -1.131 node5: -2.289 node6: -1.927 node7: 0.076 node8: -1.222 node9: -1.379 node10: -1.920 node11: -3.267 node12: -3.212 node13: -4.023 node14: -4.469 node15: -4.528 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.271 node1: -1.072 node2: -0.797 node3: 0.429 node4: -0.829 node5: -17.714 node6: -17.622 node7: -17.403 node8: -16.446 node9: -17.311 node10: -17.839 node11: -17.504 node12: -17.320 node13: -17.525 node14: -17.455 node15: -2.908 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.743 node1: -1.974 node2: -1.763 node3: -2.693 node4: -2.665 node5: -0.940 node6: -1.549 node7: -1.527 node8: -1.127 node9: -2.046 node10: -1.738 node11: -0.779 node12: -0.269 node13: -0.632 node14: -4.832 node15: -4.625 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.608 node1: -2.066 node2: -2.266 node3: -3.026 node4: -2.036 node5: -1.648 node6: -37.878 node7: -37.196 node8: -36.684 node9: -36.989 node10: -37.098 node11: -37.757 node12: -37.174 node13: -37.589 node14: -37.607 node15: -37.353 
+
+---------Target Q for 0th batch-------------
+
+node0: -2.664 node1: -2.442 node2: -1.735 node3: -1.340 node4: -2.062 node5: -1.707 node6: -1.291 node7: -0.418 node8: -2.108 node9: -1.056 node10: -2.361 node11: -0.975 node12: -0.708 node13: -0.543 node14: -4.821 node15: -2.865 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.075 node1: -3.241 node2: -2.148 node3: -2.073 node4: -3.070 node5: -38.774 node6: -38.197 node7: -38.380 node8: -37.814 node9: -38.030 node10: -38.173 node11: -38.342 node12: -37.949 node13: -38.131 node14: -38.262 node15: -2.455 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.314 node1: -2.752 node2: -2.941 node3: -3.732 node4: -2.824 node5: -2.833 node6: -38.306 node7: -38.454 node8: -37.782 node9: -38.193 node10: -35.311 node11: -38.097 node12: -37.963 node13: -38.256 node14: -38.300 node15: -38.006 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.131 node1: -3.223 node2: -2.211 node3: -2.248 node4: -3.293 node5: -2.224 node6: -1.746 node7: -1.500 node8: -1.459 node9: -1.747 node10: -2.415 node11: -1.572 node12: -0.985 node13: -0.585 node14: -2.278 node15: -2.522 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.391 node1: -2.691 node2: -2.636 node3: -3.163 node4: -3.512 node5: -1.723 node6: -8.486 node7: -8.521 node8: -8.271 node9: -8.635 node10: -8.713 node11: -8.190 node12: -7.877 node13: -8.243 node14: -8.290 node15: -7.995 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.383 node1: -2.630 node2: -2.256 node3: -1.380 node4: -2.407 node5: -2.310 node6: -2.001 node7: -1.967 node8: -3.393 node9: -2.619 node10: -2.915 node11: -2.365 node12: -3.303 node13: -4.889 node14: -5.389 node15: -5.248 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.120 node1: -5.856 node2: -4.313 node3: -4.243 node4: -4.299 node5: -3.781 node6: -2.872 node7: -3.629 node8: -2.086 node9: -3.235 node10: -4.960 node11: -4.278 node12: -3.006 node13: -3.725 node14: -6.031 node15: -4.922 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.572 node1: -3.584 node2: -3.669 node3: -4.252 node4: -3.795 node5: -3.283 node6: -2.433 node7: -3.865 node8: -4.393 node9: -3.161 node10: -2.846 node11: -3.781 node12: -4.167 node13: -5.896 node14: -6.637 node15: -6.117 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.275 node1: -4.247 node2: -3.383 node3: -4.138 node4: -5.932 node5: -4.793 node6: -3.782 node7: -3.485 node8: -2.810 node9: -3.923 node10: -3.074 node11: -3.420 node12: -2.501 node13: -4.373 node14: -4.840 node15: -3.449 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.111 node1: -4.206 node2: -3.232 node3: -3.261 node4: -4.265 node5: -3.586 node6: -2.426 node7: -2.759 node8: -2.515 node9: -3.415 node10: -3.766 node11: -2.260 node12: -2.025 node13: -1.717 node14: -3.325 node15: -3.475 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.791 node1: -4.355 node2: -3.146 node3: -3.541 node4: -4.239 node5: -19.657 node6: -20.036 node7: -19.408 node8: -19.998 node9: -19.652 node10: -18.855 node11: -18.853 node12: -18.587 node13: -19.015 node14: -19.285 node15: -3.355 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.255 node1: -6.238 node2: -4.960 node3: -4.643 node4: -5.633 node5: -6.177 node6: -4.913 node7: -39.759 node8: -39.573 node9: -41.437 node10: -39.215 node11: -32.924 node12: -39.247 node13: -39.401 node14: -39.638 node15: -39.361 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.761 node1: -4.144 node2: -4.229 node3: -5.181 node4: -4.768 node5: -4.040 node6: -9.903 node7: -9.873 node8: -9.770 node9: -9.958 node10: -10.668 node11: -9.958 node12: -9.232 node13: -9.784 node14: -9.741 node15: -9.348 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.453 node1: -4.693 node2: -3.599 node3: -3.599 node4: -39.956 node5: -40.356 node6: -40.043 node7: -39.369 node8: -41.742 node9: -38.260 node10: -39.887 node11: -40.079 node12: -39.423 node13: -39.588 node14: -3.743 node15: -3.784 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.635 node1: -4.065 node2: -2.966 node3: -2.834 node4: -19.881 node5: -20.345 node6: -19.647 node7: -19.411 node8: -19.470 node9: -19.612 node10: -20.169 node11: -20.131 node12: -19.543 node13: -19.763 node14: -6.542 node15: -6.514 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.331 node1: -3.332 node2: -2.577 node3: -2.594 node4: -39.735 node5: -40.322 node6: -39.921 node7: -39.394 node8: -37.578 node9: -40.008 node10: -41.996 node11: -39.659 node12: -39.494 node13: -39.740 node14: -39.615 node15: -5.174 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.686 node1: 5.455 node2: 5.092 node3: 4.511 node4: 6.247 node5: 5.057 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.634 node1: -6.583 node2: -5.339 node3: -20.239 node4: -20.312 node5: -20.315 node6: -20.664 node7: -18.037 node8: -20.123 node9: -19.763 node10: -20.720 node11: -20.069 node12: -20.099 node13: -19.697 node14: -6.973 node15: -6.029 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.836 node1: -5.015 node2: -4.043 node3: -4.134 node4: -5.192 node5: -3.421 node6: -20.283 node7: -20.194 node8: -19.515 node9: -19.966 node10: -19.396 node11: -20.202 node12: -19.672 node13: -19.974 node14: -20.068 node15: -19.672 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.173 node1: -3.514 node2: -2.942 node3: -4.251 node4: -5.272 node5: -3.488 node6: -3.193 node7: -2.449 node8: -2.567 node9: -2.950 node10: -3.505 node11: -3.749 node12: -3.577 node13: -3.295 node14: -4.181 node15: -4.107 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.853 node1: -5.005 node2: -4.070 node3: -4.316 node4: -5.407 node5: -40.536 node6: -40.293 node7: -40.160 node8: -39.788 node9: -36.968 node10: -40.108 node11: -40.219 node12: -39.668 node13: -40.015 node14: -40.073 node15: -4.185 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.607 node1: -7.337 node2: -6.220 node3: -6.410 node4: -6.910 node5: -5.821 node6: -6.397 node7: -4.297 node8: -5.990 node9: -5.266 node10: -3.340 node11: -3.618 node12: -2.854 node13: -4.841 node14: -7.593 node15: -6.317 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.741 node1: -5.839 node2: -4.897 node3: -5.093 node4: -6.132 node5: -5.549 node6: -3.907 node7: -5.492 node8: -5.632 node9: -5.209 node10: -5.071 node11: -5.153 node12: -3.374 node13: -3.238 node14: -4.931 node15: -4.994 
+
+---------Target Q for 0th batch-------------
+
+node0: -4.953 node1: -4.523 node2: -3.804 node3: -3.660 node4: -21.320 node5: -21.187 node6: -21.643 node7: -21.248 node8: -21.218 node9: -21.198 node10: -21.104 node11: -21.056 node12: -20.413 node13: -20.752 node14: -20.901 node15: -4.801 
+
+---------Target Q for 0th batch-------------
+
+node0: -5.517 node1: -4.431 node2: -4.261 node3: -4.361 node4: -21.109 node5: -21.442 node6: -21.551 node7: -21.175 node8: -20.624 node9: -21.255 node10: -21.124 node11: -21.005 node12: -20.426 node13: -20.822 node14: -6.312 node15: -6.131 
+
+---------Target Q for 0th batch-------------
+
+node0: -6.734 node1: -5.841 node2: -4.879 node3: -5.049 node4: -6.112 node5: -11.513 node6: -11.362 node7: -11.347 node8: -11.024 node9: -11.139 node10: -10.918 node11: -10.787 node12: -10.321 node13: -10.810 node14: -10.914 node15: -4.988 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.475 node1: -5.733 node2: -5.602 node3: -6.700 node4: -6.996 node5: -5.321 node6: -5.654 node7: -5.956 node8: -5.669 node9: -5.988 node10: -5.277 node11: -5.280 node12: -5.806 node13: -8.126 node14: -8.588 node15: -8.168 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.166 node1: -6.302 node2: -5.345 node3: -5.492 node4: -6.477 node5: -6.163 node6: -4.956 node7: -7.089 node8: -5.318 node9: -5.117 node10: -6.367 node11: -4.675 node12: -3.895 node13: -3.593 node14: -5.326 node15: -5.407 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.370 node1: -5.804 node2: -5.936 node3: -6.871 node4: -6.057 node5: -22.019 node6: -21.884 node7: -21.650 node8: -21.146 node9: -15.849 node10: -22.082 node11: -21.004 node12: -21.008 node13: -21.363 node14: -21.389 node15: -20.904 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.245 node1: -6.546 node2: -6.102 node3: -6.779 node4: -6.839 node5: -5.337 node6: -5.786 node7: -5.933 node8: -5.953 node9: -6.358 node10: -5.860 node11: -6.635 node12: -6.486 node13: -8.834 node14: -9.309 node15: -8.910 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.100 node1: -6.706 node2: -7.045 node3: -7.748 node4: -6.365 node5: -22.231 node6: -21.902 node7: -21.688 node8: -21.403 node9: -19.274 node10: -21.841 node11: -22.287 node12: -21.708 node13: -22.129 node14: -22.160 node15: -8.835 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.838 node1: -6.658 node2: -6.682 node3: -6.563 node4: -6.628 node5: -5.999 node6: -6.192 node7: -6.015 node8: -5.905 node9: -6.509 node10: -6.413 node11: -6.371 node12: -6.646 node13: -8.184 node14: -8.762 node15: -8.369 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.979 node1: -8.228 node2: -7.247 node3: -7.262 node4: -8.110 node5: -7.637 node6: -23.731 node7: -23.616 node8: -23.314 node9: -22.666 node10: -22.818 node11: -23.155 node12: -22.470 node13: -23.020 node14: -23.195 node15: -22.651 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.159 node1: -7.787 node2: -8.156 node3: -8.822 node4: -7.352 node5: -7.766 node6: -22.525 node7: -22.598 node8: -21.078 node9: -23.210 node10: -24.595 node11: -23.407 node12: -22.725 node13: -23.235 node14: -23.248 node15: -22.687 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.287 node1: -7.623 node2: -7.596 node3: -8.689 node4: -8.678 node5: -13.200 node6: -13.223 node7: -13.019 node8: -12.933 node9: -13.656 node10: -12.764 node11: -13.133 node12: -12.462 node13: -13.080 node14: -13.230 node15: -9.913 
+
+---------Target Q for 0th batch-------------
+
+node0: -7.205 node1: -6.334 node2: -43.003 node3: -42.627 node4: -43.534 node5: -42.230 node6: -41.611 node7: -43.146 node8: -44.726 node9: -43.622 node10: -42.086 node11: -42.309 node12: -7.722 node13: -6.775 node14: -7.103 node15: -6.973 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.255 node1: -8.549 node2: -8.125 node3: -9.678 node4: -9.241 node5: -7.736 node6: -7.713 node7: -7.640 node8: -8.198 node9: -7.936 node10: -8.404 node11: -8.605 node12: -6.496 node13: -6.431 node14: -8.139 node15: -9.078 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.574 node1: -7.953 node2: -8.398 node3: -8.961 node4: -9.558 node5: -7.497 node6: -7.859 node7: -7.573 node8: -7.862 node9: -9.503 node10: -8.841 node11: -7.506 node12: -6.480 node13: -6.715 node14: -11.015 node15: -10.232 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.489 node1: -8.566 node2: -7.676 node3: -7.769 node4: -8.634 node5: -23.664 node6: -23.886 node7: -23.696 node8: -23.380 node9: -24.405 node10: -23.759 node11: -24.157 node12: -23.390 node13: -23.792 node14: -24.188 node15: -7.492 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.375 node1: -8.560 node2: -7.675 node3: -7.780 node4: -8.650 node5: -7.359 node6: -7.956 node7: -7.738 node8: -7.899 node9: -9.597 node10: -9.041 node11: -7.518 node12: -6.493 node13: -6.178 node14: -7.833 node15: -7.586 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.633 node1: -8.038 node2: -8.132 node3: -9.055 node4: -8.632 node5: -7.662 node6: -7.544 node7: -7.660 node8: -8.435 node9: -7.995 node10: -8.805 node11: -8.555 node12: -6.574 node13: -6.722 node14: -11.111 node15: -10.316 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.882 node1: -8.375 node2: -8.568 node3: -9.369 node4: -8.536 node5: -8.075 node6: -24.245 node7: -23.790 node8: -23.480 node9: -22.140 node10: -24.636 node11: -24.968 node12: -23.436 node13: -24.405 node14: -24.050 node15: -23.376 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.909 node1: -8.330 node2: -8.262 node3: -7.429 node4: -7.634 node5: -8.661 node6: -6.508 node7: -8.067 node8: -7.704 node9: -7.926 node10: -9.351 node11: -9.144 node12: -9.458 node13: -10.918 node14: -11.047 node15: -10.593 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.789 node1: -8.135 node2: -8.177 node3: -9.632 node4: -10.419 node5: -8.470 node6: -8.737 node7: -8.690 node8: -8.088 node9: -8.839 node10: -9.022 node11: -8.841 node12: -8.512 node13: -9.832 node14: -7.867 node15: -9.643 
+
+---------Target Q for 0th batch-------------
+
+node0: 5.367 node1: 6.524 node2: 6.766 node3: 6.761 node4: 7.610 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 4.361 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.488 node1: -9.670 node2: -8.621 node3: -8.743 node4: -24.920 node5: -25.148 node6: -24.566 node7: -24.141 node8: -21.429 node9: -24.872 node10: -24.928 node11: -24.942 node12: -24.050 node13: -24.601 node14: -8.531 node15: -8.467 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.650 node1: -8.842 node2: -7.914 node3: -7.700 node4: -9.027 node5: -8.497 node6: -23.926 node7: -24.706 node8: -24.004 node9: -22.842 node10: -23.937 node11: -24.032 node12: -23.560 node13: -23.749 node14: -23.962 node15: -23.324 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.841 node1: -8.386 node2: -8.675 node3: -9.388 node4: -8.180 node5: -8.455 node6: -23.621 node7: -23.523 node8: -22.144 node9: -23.789 node10: -24.959 node11: -24.193 node12: -23.589 node13: -24.035 node14: -23.974 node15: -23.363 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.488 node1: -7.322 node2: -7.315 node3: -7.104 node4: -7.033 node5: -7.246 node6: -7.048 node7: -7.103 node8: -7.311 node9: -7.751 node10: -7.907 node11: -7.367 node12: -7.641 node13: -8.982 node14: -9.467 node15: -9.043 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.560 node1: -7.631 node2: -7.616 node3: -7.283 node4: -6.522 node5: -43.467 node6: -44.778 node7: -44.200 node8: -43.973 node9: -42.137 node10: -43.995 node11: -44.110 node12: -43.435 node13: -43.946 node14: -43.780 node15: -9.277 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.098 node1: -8.577 node2: -8.165 node3: -8.140 node4: -9.069 node5: -7.955 node6: -8.151 node7: -7.973 node8: -7.918 node9: -8.918 node10: -8.185 node11: -7.231 node12: -6.148 node13: -6.407 node14: -7.915 node15: -7.737 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.125 node1: -9.662 node2: -10.324 node3: -10.472 node4: -9.520 node5: -8.234 node6: -9.159 node7: -11.507 node8: -14.953 node9: -12.621 node10: -11.713 node11: -10.397 node12: -11.309 node13: -11.706 node14: -11.893 node15: -11.592 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.309 node1: -8.742 node2: -8.211 node3: -7.995 node4: -9.679 node5: -9.554 node6: -10.192 node7: -9.067 node8: -9.480 node9: -9.041 node10: -7.526 node11: -8.336 node12: -8.235 node13: -8.466 node14: -9.342 node15: -9.039 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.406 node1: -7.869 node2: -8.419 node3: -7.881 node4: -8.171 node5: -7.651 node6: -8.096 node7: -8.078 node8: -8.050 node9: -8.065 node10: -8.081 node11: -8.026 node12: -8.009 node13: -9.071 node14: -10.252 node15: -8.589 
+
+---------Target Q for 0th batch-------------
+
+node0: -8.514 node1: -8.176 node2: -8.505 node3: -8.721 node4: -8.764 node5: -8.660 node6: -7.897 node7: -8.166 node8: -8.467 node9: -7.816 node10: -7.880 node11: -9.610 node12: -9.696 node13: -10.982 node14: -8.655 node15: -8.266 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.315 node1: -8.759 node2: -8.201 node3: -8.240 node4: -9.603 node5: -8.809 node6: -8.523 node7: -8.773 node8: -8.391 node9: -7.807 node10: -7.608 node11: -7.975 node12: -7.961 node13: -8.518 node14: -9.381 node15: -7.827 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.907 node1: -9.530 node2: -9.514 node3: -9.324 node4: -15.738 node5: -15.988 node6: -16.602 node7: -16.703 node8: -16.426 node9: -16.101 node10: -16.536 node11: -16.898 node12: -16.142 node13: -16.384 node14: -11.982 node15: -10.694 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.218 node1: 5.069 node2: 6.305 node3: 5.929 node4: 5.797 node5: 6.284 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.401 node1: -10.737 node2: -10.413 node3: -11.390 node4: -11.078 node5: -9.523 node6: -10.394 node7: -10.838 node8: -10.848 node9: -10.660 node10: -10.449 node11: -10.639 node12: -8.797 node13: -9.646 node14: -13.726 node15: -12.953 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.452 node1: -10.097 node2: -9.956 node3: -16.169 node4: -15.879 node5: -15.895 node6: -16.649 node7: -16.740 node8: -17.127 node9: -16.826 node10: -16.759 node11: -17.002 node12: -15.907 node13: -9.671 node14: -10.300 node15: -10.064 
+
+---------Target Q for 0th batch-------------
+
+node0: -9.978 node1: -9.834 node2: -8.603 node3: -8.880 node4: -15.916 node5: -15.846 node6: -16.890 node7: -16.970 node8: -17.113 node9: -16.853 node10: -16.559 node11: -16.929 node12: -15.895 node13: -16.479 node14: -16.467 node15: -10.050 
+
+---------Target Q for 0th batch-------------
+
+node0: -11.255 node1: -11.736 node2: -27.208 node3: -26.678 node4: -26.641 node5: -26.494 node6: -27.004 node7: -26.404 node8: -26.784 node9: -27.812 node10: -28.126 node11: -28.340 node12: -26.789 node13: -27.164 node14: -12.969 node15: -10.527 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.716 node1: -11.886 node2: -10.422 node3: -10.895 node4: -16.402 node5: -16.780 node6: -17.546 node7: -16.550 node8: -16.499 node9: -17.289 node10: -17.801 node11: -18.361 node12: -17.250 node13: -17.807 node14: -11.606 node15: -10.866 
+
+---------Target Q for 0th batch-------------
+
+node0: -10.797 node1: -11.498 node2: -9.582 node3: -10.307 node4: -9.788 node5: -10.377 node6: -10.663 node7: -10.437 node8: -11.585 node9: -11.126 node10: -10.623 node11: -11.689 node12: -10.501 node13: -10.937 node14: -11.526 node15: -10.565 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.213 node1: -12.498 node2: -10.891 node3: -10.728 node4: -11.025 node5: -11.610 node6: -26.476 node7: -27.546 node8: -27.300 node9: -26.560 node10: -28.008 node11: -27.997 node12: -26.712 node13: -27.682 node14: -27.617 node15: -26.867 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.151 node1: -13.029 node2: -12.970 node3: -11.732 node4: -12.896 node5: -11.725 node6: -9.761 node7: -10.355 node8: -17.534 node9: -13.959 node10: -10.725 node11: -12.676 node12: -11.744 node13: -12.693 node14: -14.952 node15: -12.637 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.527 node1: -12.656 node2: -11.822 node3: -11.842 node4: -12.659 node5: -11.448 node6: -10.762 node7: -11.465 node8: -11.328 node9: -11.002 node10: -11.137 node11: -10.849 node12: -10.092 node13: -10.714 node14: -12.058 node15: -11.611 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.458 node1: -12.723 node2: -12.145 node3: -12.256 node4: -12.818 node5: -47.185 node6: -48.329 node7: -48.513 node8: -48.412 node9: -46.012 node10: -47.175 node11: -47.763 node12: -47.143 node13: -47.978 node14: -47.944 node15: -11.567 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.115 node1: -12.443 node2: -12.399 node3: -12.840 node4: -13.359 node5: -11.026 node6: -11.418 node7: -12.293 node8: -11.640 node9: -11.952 node10: -11.441 node11: -12.092 node12: -12.477 node13: -15.136 node14: -15.396 node15: -14.592 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.632 node1: -11.508 node2: -11.618 node3: -10.814 node4: -10.953 node5: -17.332 node6: -18.117 node7: -18.707 node8: -19.321 node9: -18.752 node10: -17.680 node11: -18.149 node12: -17.386 node13: -18.301 node14: -18.185 node15: -13.038 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.630 node1: -11.617 node2: -11.402 node3: -10.504 node4: -11.542 node5: -27.483 node6: -27.640 node7: -28.204 node8: -28.413 node9: -28.064 node10: -28.758 node11: -28.083 node12: -27.508 node13: -28.312 node14: -28.039 node15: -12.921 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.745 node1: -12.937 node2: -12.521 node3: -12.764 node4: -13.080 node5: -18.329 node6: -18.496 node7: -18.994 node8: -18.502 node9: -19.342 node10: -17.829 node11: -18.161 node12: -17.742 node13: -18.596 node14: -18.160 node15: -11.814 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.090 node1: -12.309 node2: -11.442 node3: -11.736 node4: -13.332 node5: -12.578 node6: -11.073 node7: -12.962 node8: -12.604 node9: -13.723 node10: -11.918 node11: -10.638 node12: -10.633 node13: -12.565 node14: -15.359 node15: -13.399 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.780 node1: -11.360 node2: -12.225 node3: -12.523 node4: -13.384 node5: -13.052 node6: -10.403 node7: -13.311 node8: -13.207 node9: -12.456 node10: -12.398 node11: -12.381 node12: -10.455 node13: -10.693 node14: -12.478 node15: -14.624 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.515 node1: -12.118 node2: -11.601 node3: -11.591 node4: -11.575 node5: -12.857 node6: -11.863 node7: -11.323 node8: -12.987 node9: -11.762 node10: -11.536 node11: -11.912 node12: -12.692 node13: -12.013 node14: -12.714 node15: -12.139 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.172 node1: 5.065 node2: 6.122 node3: 6.229 node4: 5.281 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 5.504 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.688 node1: -13.972 node2: -13.163 node3: -13.344 node4: -14.015 node5: -13.220 node6: -11.797 node7: -11.237 node8: -12.292 node9: -12.523 node10: -11.665 node11: -11.905 node12: -11.130 node13: -11.704 node14: -13.234 node15: -12.725 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.587 node1: -15.460 node2: -14.527 node3: -14.766 node4: -15.410 node5: -14.968 node6: -12.796 node7: -12.386 node8: -12.532 node9: -13.919 node10: -13.641 node11: -13.640 node12: -11.501 node13: -13.363 node14: -15.887 node15: -14.053 
+
+---------Target Q for 0th batch-------------
+
+node0: 6.052 node1: 6.679 node2: 6.598 node3: -50.000 node4: -50.000 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: 5.558 node14: 5.783 node15: 5.866 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.875 node1: -13.620 node2: -14.009 node3: -14.511 node4: -12.924 node5: -29.136 node6: -28.579 node7: -28.259 node8: -28.182 node9: -32.111 node10: -29.902 node11: -29.858 node12: -28.876 node13: -29.583 node14: -29.278 node15: -15.444 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.133 node1: -15.120 node2: -12.075 node3: -12.987 node4: -14.031 node5: -13.188 node6: -11.512 node7: -11.467 node8: -11.505 node9: -14.290 node10: -14.871 node11: -15.260 node12: -15.440 node13: -18.345 node14: -18.403 node15: -17.058 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.790 node1: -13.137 node2: -13.154 node3: -14.239 node4: -14.154 node5: -12.699 node6: -12.692 node7: -12.711 node8: -13.479 node9: -13.219 node10: -13.191 node11: -13.249 node12: -12.936 node13: -15.935 node14: -16.196 node15: -15.336 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.631 node1: -13.334 node2: -13.745 node3: -14.271 node4: -12.710 node5: -13.777 node6: -48.021 node7: -48.859 node8: -50.638 node9: -47.757 node10: -47.852 node11: -51.646 node12: -47.769 node13: -49.254 node14: -49.028 node15: -48.113 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.524 node1: -13.651 node2: -12.815 node3: -13.093 node4: -13.997 node5: -13.107 node6: -12.813 node7: -12.920 node8: -12.923 node9: -13.513 node10: -12.882 node11: -12.857 node12: -11.326 node13: -11.753 node14: -13.076 node15: -12.604 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.341 node1: -13.830 node2: -14.081 node3: -13.325 node4: -13.056 node5: -13.781 node6: -11.598 node7: -8.214 node8: -16.315 node9: -16.742 node10: -15.624 node11: -14.732 node12: -15.293 node13: -16.207 node14: -16.360 node15: -15.864 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.167 node1: -15.862 node2: -14.878 node3: -15.453 node4: -16.717 node5: -15.286 node6: -14.001 node7: -13.507 node8: -13.316 node9: -13.930 node10: -13.342 node11: -13.615 node12: -12.529 node13: -14.548 node14: -16.144 node15: -14.403 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.754 node1: -14.218 node2: -14.380 node3: -15.397 node4: -14.777 node5: -14.266 node6: -14.355 node7: -14.602 node8: -16.566 node9: -14.481 node10: -14.301 node11: -14.042 node12: -14.630 node13: -16.557 node14: -16.944 node15: -16.226 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.693 node1: -14.274 node2: -14.534 node3: -15.358 node4: -14.397 node5: -30.533 node6: -30.807 node7: -30.877 node8: -30.200 node9: -29.178 node10: -29.248 node11: -30.058 node12: -28.576 node13: -29.992 node14: -29.868 node15: -16.190 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.746 node1: -14.275 node2: -14.471 node3: -15.260 node4: -14.348 node5: -14.598 node6: -30.094 node7: -32.406 node8: -31.052 node9: -29.118 node10: -28.860 node11: -29.669 node12: -29.074 node13: -29.971 node14: -29.887 node15: -28.984 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.333 node1: -13.223 node2: -13.305 node3: -13.281 node4: -12.960 node5: -20.076 node6: -20.854 node7: -20.629 node8: -20.810 node9: -20.358 node10: -19.185 node11: -19.626 node12: -18.970 node13: -19.910 node14: -19.869 node15: -14.685 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.290 node1: -13.744 node2: -13.695 node3: -13.865 node4: -14.448 node5: -30.215 node6: -30.146 node7: -31.814 node8: -32.303 node9: -30.187 node10: -29.203 node11: -29.659 node12: -29.006 node13: -29.771 node14: -29.918 node15: -15.232 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.607 node1: -14.860 node2: -14.055 node3: -14.181 node4: -14.857 node5: -13.356 node6: -13.810 node7: -13.769 node8: -13.933 node9: -15.102 node10: -15.278 node11: -14.036 node12: -12.945 node13: -12.719 node14: -14.084 node15: -13.665 
+
+---------Target Q for 0th batch-------------
+
+node0: 2.570 node1: 3.606 node2: 4.924 node3: 5.106 node4: 4.206 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: 4.328 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.126 node1: -13.671 node2: -13.297 node3: -49.773 node4: -49.569 node5: -50.189 node6: -49.479 node7: -54.854 node8: -49.463 node9: -48.825 node10: -53.846 node11: -51.204 node12: -49.794 node13: -13.450 node14: -13.804 node15: -13.131 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.876 node1: -14.343 node2: -14.391 node3: -15.359 node4: -14.904 node5: -13.838 node6: -19.700 node7: -19.407 node8: -19.312 node9: -20.160 node10: -21.145 node11: -20.037 node12: -19.439 node13: -20.745 node14: -19.864 node15: -19.147 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.753 node1: -15.261 node2: -14.145 node3: -13.171 node4: -14.158 node5: -30.657 node6: -30.321 node7: -28.892 node8: -28.446 node9: -29.497 node10: -30.423 node11: -31.170 node12: -29.892 node13: -30.079 node14: -30.001 node15: -12.836 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.569 node1: -14.923 node2: -14.896 node3: -15.956 node4: -15.957 node5: -14.023 node6: -14.106 node7: -13.934 node8: -13.206 node9: -13.441 node10: -13.952 node11: -14.809 node12: -15.227 node13: -17.699 node14: -17.769 node15: -17.019 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.858 node1: -14.108 node2: -14.159 node3: -13.728 node4: -13.657 node5: -13.356 node6: -13.167 node7: -13.748 node8: -13.285 node9: -13.813 node10: -13.960 node11: -14.163 node12: -14.322 node13: -16.177 node14: -16.437 node15: -15.220 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.146 node1: -15.483 node2: -15.466 node3: -16.379 node4: -15.507 node5: -14.170 node6: -13.638 node7: -12.677 node8: -13.102 node9: -13.611 node10: -13.905 node11: -15.617 node12: -16.082 node13: -18.539 node14: -18.620 node15: -17.660 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.145 node1: -14.535 node2: -14.028 node3: -14.169 node4: -14.559 node5: -14.596 node6: -13.673 node7: -12.985 node8: -13.373 node9: -13.895 node10: -13.963 node11: -14.036 node12: -13.991 node13: -14.925 node14: -15.519 node15: -14.812 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.382 node1: 4.832 node2: 6.288 node3: 5.902 node4: 5.361 node5: 6.061 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.949 node1: -15.277 node2: -14.724 node3: -15.734 node4: -17.645 node5: -15.250 node6: -13.970 node7: -14.192 node8: -13.496 node9: -13.325 node10: -12.183 node11: -12.862 node12: -13.070 node13: -14.100 node14: -14.729 node15: -13.724 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.777 node1: -14.972 node2: -14.022 node3: -14.413 node4: -15.401 node5: -49.551 node6: -50.375 node7: -50.395 node8: -50.989 node9: -49.878 node10: -49.699 node11: -50.952 node12: -50.175 node13: -50.426 node14: -50.377 node15: -13.914 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.771 node1: -15.103 node2: -13.919 node3: -13.625 node4: -50.231 node5: -49.873 node6: -49.654 node7: -49.496 node8: -45.579 node9: -44.830 node10: -49.449 node11: -53.069 node12: -49.945 node13: -50.126 node14: -14.402 node15: -13.697 
+
+---------Target Q for 0th batch-------------
+
+node0: 5.404 node1: 6.591 node2: 7.043 node3: 6.344 node4: 6.183 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.447 node1: -14.935 node2: -14.170 node3: -15.943 node4: -16.113 node5: -13.614 node6: -13.779 node7: -14.493 node8: -14.363 node9: -15.008 node10: -13.755 node11: -14.003 node12: -14.128 node13: -16.302 node14: -17.186 node15: -15.945 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.494 node1: -14.696 node2: -14.780 node3: -14.378 node4: -14.894 node5: -14.279 node6: -13.856 node7: -14.404 node8: -13.497 node9: -14.361 node10: -14.251 node11: -14.532 node12: -14.527 node13: -16.724 node14: -17.241 node15: -15.846 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.484 node1: -14.725 node2: -14.642 node3: -14.616 node4: -14.669 node5: -13.901 node6: -13.908 node7: -14.325 node8: -13.109 node9: -14.326 node10: -14.514 node11: -14.717 node12: -14.940 node13: -16.482 node14: -17.031 node15: -16.096 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.148 node1: -15.518 node2: -15.586 node3: -16.715 node4: -51.879 node5: -51.492 node6: -50.457 node7: -50.820 node8: -39.435 node9: -49.773 node10: -51.558 node11: -51.236 node12: -50.169 node13: -50.955 node14: -15.808 node15: -17.662 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.797 node1: -14.748 node2: -51.451 node3: -51.335 node4: -51.417 node5: -51.260 node6: -50.097 node7: -46.443 node8: -51.927 node9: -51.785 node10: -51.660 node11: -52.586 node12: -51.068 node13: -51.471 node14: -16.123 node15: -15.871 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.673 node1: -16.328 node2: -14.876 node3: -15.552 node4: -50.914 node5: -51.504 node6: -50.819 node7: -50.476 node8: -41.674 node9: -50.563 node10: -50.844 node11: -51.768 node12: -50.993 node13: -51.271 node14: -15.387 node15: -14.801 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.931 node1: -18.207 node2: -16.974 node3: -16.353 node4: -16.909 node5: -17.241 node6: -17.420 node7: -14.672 node8: -17.542 node9: -33.724 node10: -19.945 node11: -31.428 node12: -9.680 node13: -19.873 node14: -18.703 node15: -17.566 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.838 node1: -15.667 node2: -15.893 node3: -17.298 node4: -18.372 node5: -16.854 node6: -15.834 node7: -15.745 node8: -15.038 node9: -16.654 node10: -15.386 node11: -15.389 node12: -16.013 node13: -17.031 node14: -16.479 node15: -16.654 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.990 node1: -14.942 node2: -14.937 node3: -14.794 node4: -14.276 node5: -14.692 node6: -14.904 node7: -16.294 node8: -15.950 node9: -16.123 node10: -15.057 node11: -14.514 node12: -14.490 node13: -15.494 node14: -16.673 node15: -15.509 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.358 node1: -15.052 node2: -14.555 node3: -14.269 node4: -51.983 node5: -51.457 node6: -52.035 node7: -51.731 node8: -52.590 node9: -53.890 node10: -52.213 node11: -52.451 node12: -51.191 node13: -51.566 node14: -51.678 node15: -15.041 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.446 node1: -15.255 node2: -15.333 node3: -15.144 node4: -15.066 node5: -14.732 node6: -14.765 node7: -15.148 node8: -15.030 node9: -15.749 node10: -15.052 node11: -14.670 node12: -15.341 node13: -17.440 node14: -17.745 node15: -16.845 
+
+---------Target Q for 0th batch-------------
+
+node0: -20.027 node1: -17.016 node2: -16.572 node3: -17.055 node4: -22.779 node5: -22.866 node6: -22.576 node7: -22.255 node8: -23.337 node9: -24.052 node10: -22.762 node11: -23.806 node12: -22.675 node13: -23.004 node14: -17.386 node15: -16.979 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.155 node1: -16.103 node2: -16.085 node3: -15.921 node4: -22.660 node5: -22.931 node6: -22.661 node7: -22.450 node8: -22.552 node9: -23.648 node10: -23.228 node11: -23.583 node12: -22.488 node13: -23.233 node14: -18.405 node15: -17.542 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.583 node1: -15.668 node2: -15.934 node3: -32.783 node4: -32.466 node5: -32.898 node6: -31.954 node7: -32.028 node8: -33.754 node9: -35.720 node10: -33.417 node11: -34.238 node12: -32.142 node13: -16.627 node14: -17.014 node15: -17.014 
+
+---------Target Q for 0th batch-------------
+
+node0: -20.175 node1: -19.165 node2: -18.059 node3: -17.876 node4: -18.645 node5: -18.678 node6: -17.549 node7: -23.044 node8: -23.795 node9: -20.185 node10: -23.701 node11: -23.948 node12: -22.566 node13: -22.694 node14: -22.847 node15: -21.870 
+
+---------Target Q for 0th batch-------------
+
+node0: -20.493 node1: -17.764 node2: -17.600 node3: -17.127 node4: -17.391 node5: -18.951 node6: -15.133 node7: -17.000 node8: -15.729 node9: -18.213 node10: -17.272 node11: -18.031 node12: -17.971 node13: -20.896 node14: -20.980 node15: -19.944 
+
+---------Target Q for 0th batch-------------
+
+node0: -20.007 node1: -15.865 node2: -16.538 node3: -16.667 node4: -18.514 node5: -17.014 node6: -15.408 node7: -16.378 node8: -15.717 node9: -17.199 node10: -16.292 node11: -16.719 node12: -17.556 node13: -19.807 node14: -20.374 node15: -19.002 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.880 node1: -16.702 node2: -15.844 node3: -15.802 node4: -18.427 node5: -54.148 node6: -52.967 node7: -52.425 node8: -51.888 node9: -38.765 node10: -54.353 node11: -54.764 node12: -52.414 node13: -52.945 node14: -53.157 node15: -16.445 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.906 node1: -16.640 node2: -15.994 node3: -15.746 node4: -53.674 node5: -52.286 node6: -52.383 node7: -52.144 node8: -42.329 node9: -51.361 node10: -52.803 node11: -54.301 node12: -52.707 node13: -53.016 node14: -53.194 node15: -16.514 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.756 node1: -17.603 node2: -17.445 node3: -17.183 node4: -17.000 node5: -17.824 node6: -17.398 node7: -17.194 node8: -16.464 node9: -17.198 node10: -16.919 node11: -16.485 node12: -15.521 node13: -15.719 node14: -17.233 node15: -16.752 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.030 node1: -16.722 node2: -16.080 node3: -16.446 node4: -33.117 node5: -33.657 node6: -33.403 node7: -32.785 node8: -31.864 node9: -32.308 node10: -32.928 node11: -33.931 node12: -32.615 node13: -33.106 node14: -33.208 node15: -16.556 
+
+---------Target Q for 0th batch-------------
+
+node0: -20.810 node1: -19.749 node2: -18.598 node3: -18.464 node4: -19.161 node5: -19.162 node6: -18.604 node7: -18.738 node8: -17.924 node9: -16.912 node10: -16.325 node11: -16.979 node12: -15.467 node13: -16.441 node14: -20.206 node15: -18.594 
+
+---------Target Q for 0th batch-------------
+
+node0: -20.305 node1: -17.568 node2: -17.419 node3: -18.480 node4: -18.807 node5: -17.078 node6: -17.107 node7: -17.093 node8: -16.104 node9: -16.253 node10: -16.458 node11: -17.226 node12: -17.703 node13: -20.505 node14: -20.695 node15: -19.716 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.999 node1: -17.131 node2: -16.908 node3: -17.152 node4: -16.891 node5: -33.090 node6: -32.880 node7: -34.149 node8: -33.961 node9: -30.471 node10: -32.913 node11: -33.322 node12: -32.895 node13: -33.489 node14: -33.442 node15: -32.672 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.505 node1: -16.929 node2: -16.437 node3: -16.521 node4: -16.807 node5: -16.461 node6: -15.767 node7: -16.497 node8: -16.232 node9: -16.041 node10: -15.698 node11: -15.939 node12: -15.662 node13: -16.929 node14: -17.865 node15: -17.071 
+
+---------Target Q for 0th batch-------------
+
+node0: -21.040 node1: -20.002 node2: -18.200 node3: -18.021 node4: -18.734 node5: -34.044 node6: -35.178 node7: -35.059 node8: -34.837 node9: -37.732 node10: -33.095 node11: -33.974 node12: -32.766 node13: -33.156 node14: -33.688 node15: -18.808 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.699 node1: -17.943 node2: -54.486 node3: -54.195 node4: -53.987 node5: -54.709 node6: -54.459 node7: -51.559 node8: -53.493 node9: -51.709 node10: -57.868 node11: -56.161 node12: -54.100 node13: -54.038 node14: -54.833 node15: -18.238 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.759 node1: -17.747 node2: -17.755 node3: -17.730 node4: -24.206 node5: -24.444 node6: -25.473 node7: -25.026 node8: -22.838 node9: -25.600 node10: -24.959 node11: -25.138 node12: -24.188 node13: -24.603 node14: -24.518 node15: -19.279 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.913 node1: -17.339 node2: -16.888 node3: -18.246 node4: -19.096 node5: -17.298 node6: -17.048 node7: -16.253 node8: -16.011 node9: -16.488 node10: -17.189 node11: -17.965 node12: -17.562 node13: -17.886 node14: -18.307 node15: -17.458 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.436 node1: -17.334 node2: -17.444 node3: -17.334 node4: -17.274 node5: -17.347 node6: -17.310 node7: -17.145 node8: -16.626 node9: -17.128 node10: -17.456 node11: -17.715 node12: -17.866 node13: -19.644 node14: -19.744 node15: -18.750 
+
+---------Target Q for 0th batch-------------
+
+node0: -20.912 node1: -18.249 node2: -17.032 node3: -17.810 node4: -19.206 node5: -18.519 node6: -17.956 node7: -17.107 node8: -16.669 node9: -17.753 node10: -17.961 node11: -18.278 node12: -18.758 node13: -21.480 node14: -21.425 node15: -20.303 
+
+---------Target Q for 0th batch-------------
+
+node0: -21.063 node1: -19.934 node2: -18.871 node3: -19.032 node4: -20.212 node5: -19.769 node6: -18.460 node7: -17.738 node8: -17.583 node9: -16.898 node10: -15.899 node11: -17.662 node12: -17.590 node13: -17.917 node14: -18.254 node15: -18.520 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.592 node1: -18.434 node2: -17.065 node3: -19.965 node4: -15.962 node5: -32.884 node6: -34.055 node7: -31.480 node8: -33.399 node9: -28.461 node10: -34.902 node11: -34.757 node12: -33.558 node13: -33.347 node14: -34.192 node15: -32.798 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.424 node1: -17.953 node2: -17.740 node3: -18.887 node4: -19.219 node5: -17.695 node6: -17.103 node7: -16.538 node8: -15.974 node9: -16.561 node10: -16.922 node11: -18.036 node12: -18.584 node13: -21.229 node14: -20.973 node15: -18.173 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.276 node1: -17.707 node2: -17.494 node3: -24.373 node4: -24.378 node5: -24.384 node6: -23.710 node7: -22.995 node8: -25.228 node9: -23.224 node10: -25.468 node11: -25.929 node12: -23.713 node13: -23.762 node14: -18.200 node15: -17.129 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.187 node1: 5.059 node2: 6.146 node3: 6.265 node4: 5.559 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: -50.000 node15: -50.000 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.014 node1: -17.416 node2: -18.034 node3: -17.030 node4: -16.854 node5: -16.746 node6: -21.492 node7: -21.919 node8: -18.465 node9: -22.399 node10: -20.734 node11: -20.168 node12: -19.965 node13: -20.551 node14: -20.535 node15: -18.549 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.390 node1: -18.518 node2: -17.537 node3: -17.613 node4: -18.692 node5: -53.425 node6: -54.153 node7: -54.210 node8: -56.588 node9: -56.918 node10: -53.184 node11: -53.799 node12: -53.555 node13: -53.906 node14: -53.722 node15: -17.490 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.609 node1: -18.798 node2: -17.871 node3: -17.863 node4: -18.706 node5: -53.769 node6: -53.848 node7: -54.998 node8: -57.041 node9: -54.821 node10: -53.436 node11: -53.918 node12: -53.482 node13: -54.182 node14: -54.220 node15: -17.596 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.183 node1: -17.591 node2: -17.044 node3: -17.085 node4: -17.413 node5: -17.246 node6: -17.006 node7: -17.471 node8: -18.009 node9: -17.431 node10: -16.525 node11: -16.477 node12: -16.828 node13: -17.568 node14: -18.146 node15: -17.953 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.701 node1: -17.555 node2: -17.560 node3: -17.502 node4: -17.258 node5: -24.143 node6: -25.122 node7: -25.738 node8: -26.267 node9: -25.886 node10: -23.183 node11: -23.877 node12: -23.590 node13: -24.431 node14: -24.357 node15: -19.075 
+
+---------Target Q for 0th batch-------------
+
+node0: 4.204 node1: 5.057 node2: 6.172 node3: 6.270 node4: -50.000 node5: -50.000 node6: -50.000 node7: -50.000 node8: -50.000 node9: -50.000 node10: -50.000 node11: -50.000 node12: -50.000 node13: -50.000 node14: 6.001 node15: 5.557 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.928 node1: -19.031 node2: -17.779 node3: -17.429 node4: -17.758 node5: -18.850 node6: -51.555 node7: -51.869 node8: -44.756 node9: -50.943 node10: -56.082 node11: -56.376 node12: -52.598 node13: -52.107 node14: -52.483 node15: -51.792 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.008 node1: -15.869 node2: -15.763 node3: -15.773 node4: -22.924 node5: -23.145 node6: -22.923 node7: -22.666 node8: -21.897 node9: -22.334 node10: -21.877 node11: -22.696 node12: -22.234 node13: -22.749 node14: -18.101 node15: -17.438 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.468 node1: -16.812 node2: -16.721 node3: -17.708 node4: -17.944 node5: -23.251 node6: -22.365 node7: -23.404 node8: -23.055 node9: -20.933 node10: -21.432 node11: -22.473 node12: -22.201 node13: -22.834 node14: -22.653 node15: -21.738 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.256 node1: -16.095 node2: -15.103 node3: -14.621 node4: -15.733 node5: -17.867 node6: -53.415 node7: -53.370 node8: -52.327 node9: -51.257 node10: -51.117 node11: -52.736 node12: -52.647 node13: -52.438 node14: -52.412 node15: -51.795 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.065 node1: -16.788 node2: -17.001 node3: -17.059 node4: -16.373 node5: -52.836 node6: -52.394 node7: -51.491 node8: -55.272 node9: -52.097 node10: -52.233 node11: -52.994 node12: -52.163 node13: -52.468 node14: -52.301 node15: -15.848 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.485 node1: -16.105 node2: -15.303 node3: -16.343 node4: -18.343 node5: -16.090 node6: -14.818 node7: -14.541 node8: -14.535 node9: -14.860 node10: -15.442 node11: -17.004 node12: -16.596 node13: -16.389 node14: -16.709 node15: -16.195 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.766 node1: -15.906 node2: -16.169 node3: -32.546 node4: -32.529 node5: -32.702 node6: -31.018 node7: -31.472 node8: -31.732 node9: -31.662 node10: -33.084 node11: -33.968 node12: -32.793 node13: -16.809 node14: -17.742 node15: -16.756 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.717 node1: -16.208 node2: -15.330 node3: -15.819 node4: -15.430 node5: -15.621 node6: -15.028 node7: -15.036 node8: -15.943 node9: -14.845 node10: -15.257 node11: -17.031 node12: -16.409 node13: -16.338 node14: -17.036 node15: -16.477 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.652 node1: -16.818 node2: -16.560 node3: -17.673 node4: -18.342 node5: -16.269 node6: -15.863 node7: -16.389 node8: -15.632 node9: -15.943 node10: -15.707 node11: -17.064 node12: -17.713 node13: -19.769 node14: -19.991 node15: -19.136 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.879 node1: -16.558 node2: -14.976 node3: -14.723 node4: -15.761 node5: -51.038 node6: -50.404 node7: -51.568 node8: -53.836 node9: -53.232 node10: -51.892 node11: -52.243 node12: -50.789 node13: -50.943 node14: -51.347 node15: -15.012 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.160 node1: -15.657 node2: -15.304 node3: -16.089 node4: -16.793 node5: -14.727 node6: -13.427 node7: -14.816 node8: -15.625 node9: -16.019 node10: -14.728 node11: -14.920 node12: -16.054 node13: -18.322 node14: -18.549 node15: -16.125 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.935 node1: -15.848 node2: -16.410 node3: -15.110 node4: -50.588 node5: -50.563 node6: -50.356 node7: -51.188 node8: -57.822 node9: -48.548 node10: -51.803 node11: -52.113 node12: -51.231 node13: -51.528 node14: -18.039 node15: -17.680 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.235 node1: -14.574 node2: -13.808 node3: -14.113 node4: -13.779 node5: -14.839 node6: -13.241 node7: -14.991 node8: -15.807 node9: -15.665 node10: -13.948 node11: -13.686 node12: -14.390 node13: -14.551 node14: -15.346 node15: -14.976 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.744 node1: -17.667 node2: -16.433 node3: -16.274 node4: -16.897 node5: -16.382 node6: -50.689 node7: -52.098 node8: -52.388 node9: -53.359 node10: -60.211 node11: -51.539 node12: -51.163 node13: -51.015 node14: -51.301 node15: -50.635 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.715 node1: -15.264 node2: -14.992 node3: -14.467 node4: -15.645 node5: -31.924 node6: -31.436 node7: -33.086 node8: -28.959 node9: -28.795 node10: -29.793 node11: -31.885 node12: -31.296 node13: -31.719 node14: -31.739 node15: -15.339 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.256 node1: -18.077 node2: -16.953 node3: -17.188 node4: -18.518 node5: -16.834 node6: -15.895 node7: -16.168 node8: -16.456 node9: -14.888 node10: -14.204 node11: -15.234 node12: -14.962 node13: -16.469 node14: -17.981 node15: -16.895 
+
+---------Target Q for 0th batch-------------
+
+node0: -19.242 node1: -17.923 node2: -16.557 node3: -16.959 node4: -18.259 node5: -17.211 node6: -16.104 node7: -16.311 node8: -17.157 node9: -14.966 node10: -13.414 node11: -16.075 node12: -15.190 node13: -15.847 node14: -18.165 node15: -16.225 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.397 node1: -14.905 node2: -14.599 node3: -14.352 node4: -15.540 node5: -31.635 node6: -31.303 node7: -32.802 node8: -28.959 node9: -28.795 node10: -29.793 node11: -31.661 node12: -31.190 node13: -31.407 node14: -31.483 node15: -15.139 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.625 node1: -14.806 node2: -14.154 node3: -14.814 node4: -16.162 node5: -15.902 node6: -14.534 node7: -15.602 node8: -15.546 node9: -13.041 node10: -12.988 node11: -13.660 node12: -14.104 node13: -14.681 node14: -15.168 node15: -15.329 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.333 node1: -15.479 node2: -15.821 node3: -16.404 node4: -15.092 node5: -16.497 node6: -16.749 node7: -16.556 node8: -16.937 node9: -15.468 node10: -14.407 node11: -16.213 node12: -16.904 node13: -17.701 node14: -18.588 node15: -17.570 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.793 node1: -14.641 node2: -14.611 node3: -14.385 node4: -14.221 node5: -14.266 node6: -14.470 node7: -16.870 node8: -15.401 node9: -13.520 node10: -14.658 node11: -14.237 node12: -15.091 node13: -16.584 node14: -16.652 node15: -16.297 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.945 node1: -14.652 node2: -14.579 node3: -14.339 node4: -14.639 node5: -14.469 node6: -15.182 node7: -15.685 node8: -15.520 node9: -14.623 node10: -14.798 node11: -14.622 node12: -15.194 node13: -16.673 node14: -17.027 node15: -16.410 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.411 node1: -15.609 node2: -15.357 node3: -16.278 node4: -16.233 node5: -14.199 node6: -15.203 node7: -15.591 node8: -15.184 node9: -15.098 node10: -14.387 node11: -13.950 node12: -14.272 node13: -15.884 node14: -18.660 node15: -17.957 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.914 node1: -14.709 node2: -14.536 node3: -14.313 node4: -14.256 node5: -14.440 node6: -15.607 node7: -15.533 node8: -14.602 node9: -13.803 node10: -14.466 node11: -15.777 node12: -15.979 node13: -16.510 node14: -16.925 node15: -16.381 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.762 node1: -15.383 node2: -14.293 node3: -14.243 node4: -15.466 node5: -14.332 node6: -12.996 node7: -13.421 node8: -13.500 node9: -14.041 node10: -13.976 node11: -14.021 node12: -13.456 node13: -13.659 node14: -14.975 node15: -14.943 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.748 node1: -14.082 node2: -13.407 node3: -13.210 node4: -13.851 node5: -13.951 node6: -13.111 node7: -12.819 node8: -13.320 node9: -13.421 node10: -14.029 node11: -13.558 node12: -13.407 node13: -14.260 node14: -14.949 node15: -14.508 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.861 node1: -15.947 node2: -14.817 node3: -14.630 node4: -15.697 node5: -31.161 node6: -29.666 node7: -30.462 node8: -30.434 node9: -30.959 node10: -31.351 node11: -31.620 node12: -30.924 node13: -31.227 node14: -31.201 node15: -15.004 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.136 node1: -14.428 node2: -13.512 node3: -14.180 node4: -15.849 node5: -15.100 node6: -12.685 node7: -14.201 node8: -15.669 node9: -16.073 node10: -15.428 node11: -14.111 node12: -15.263 node13: -18.027 node14: -18.393 node15: -17.767 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.740 node1: -14.423 node2: -14.272 node3: -13.824 node4: -14.046 node5: -13.868 node6: -13.898 node7: -13.656 node8: -14.529 node9: -14.906 node10: -14.900 node11: -14.728 node12: -15.053 node13: -16.359 node14: -16.751 node15: -16.227 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.163 node1: -13.562 node2: -12.753 node3: -12.440 node4: -29.897 node5: -30.074 node6: -29.235 node7: -30.023 node8: -31.535 node9: -32.036 node10: -30.707 node11: -30.418 node12: -29.716 node13: -30.162 node14: -30.237 node15: -13.940 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.765 node1: -13.502 node2: -13.352 node3: -12.859 node4: -12.929 node5: -12.937 node6: -12.218 node7: -13.172 node8: -15.437 node9: -14.916 node10: -13.382 node11: -13.624 node12: -13.869 node13: -15.252 node14: -15.780 node15: -15.295 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.964 node1: -14.976 node2: -13.893 node3: -13.780 node4: -14.877 node5: -14.071 node6: -12.376 node7: -13.050 node8: -14.245 node9: -14.942 node10: -13.617 node11: -13.475 node12: -12.661 node13: -12.749 node14: -14.297 node15: -14.113 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.782 node1: -13.479 node2: -13.355 node3: -12.922 node4: -13.084 node5: -12.841 node6: -12.182 node7: -13.159 node8: -14.207 node9: -15.226 node10: -14.077 node11: -13.424 node12: -13.760 node13: -15.310 node14: -15.810 node15: -15.304 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.329 node1: -17.332 node2: -16.104 node3: -16.005 node4: -51.081 node5: -50.361 node6: -50.871 node7: -50.244 node8: -51.527 node9: -72.907 node10: -49.920 node11: -48.668 node12: -50.275 node13: -50.660 node14: -50.980 node15: -16.517 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.656 node1: -14.519 node2: -13.612 node3: -13.216 node4: -13.664 node5: -50.785 node6: -51.506 node7: -51.737 node8: -51.642 node9: -49.318 node10: -49.381 node11: -50.223 node12: -50.568 node13: -50.494 node14: -50.700 node15: -50.203 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.597 node1: -15.003 node2: -14.653 node3: -15.896 node4: -16.258 node5: -14.559 node6: -14.314 node7: -14.069 node8: -13.808 node9: -14.205 node10: -14.270 node11: -14.067 node12: -15.160 node13: -17.474 node14: -17.865 node15: -15.433 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.174 node1: -13.962 node2: -13.878 node3: -13.676 node4: -13.832 node5: -13.983 node6: -13.311 node7: -13.613 node8: -14.393 node9: -13.723 node10: -13.738 node11: -13.489 node12: -13.206 node13: -14.260 node14: -16.099 node15: -15.620 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.548 node1: -14.953 node2: -14.816 node3: -15.358 node4: -15.742 node5: -50.943 node6: -50.418 node7: -52.279 node8: -50.886 node9: -49.401 node10: -49.651 node11: -50.471 node12: -50.047 node13: -50.670 node14: -50.672 node15: -49.921 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.230 node1: -16.935 node2: -15.781 node3: -15.960 node4: -17.311 node5: -16.450 node6: -15.276 node7: -14.936 node8: -14.990 node9: -15.252 node10: -15.372 node11: -14.836 node12: -14.002 node13: -14.966 node14: -17.272 node15: -15.769 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.939 node1: -14.808 node2: -13.725 node3: -15.112 node4: -15.838 node5: -51.238 node6: -50.517 node7: -51.160 node8: -49.689 node9: -47.888 node10: -49.013 node11: -51.046 node12: -49.778 node13: -50.141 node14: -50.162 node15: -14.929 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.398 node1: -14.149 node2: -14.084 node3: -13.787 node4: -14.005 node5: -14.031 node6: -14.067 node7: -14.138 node8: -13.479 node9: -13.392 node10: -14.062 node11: -14.074 node12: -14.429 node13: -15.962 node14: -16.447 node15: -15.933 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.422 node1: -14.337 node2: -50.806 node3: -50.677 node4: -50.782 node5: -50.455 node6: -54.238 node7: -44.775 node8: -44.171 node9: -51.630 node10: -51.501 node11: -51.821 node12: -50.722 node13: -50.562 node14: -16.313 node15: -15.953 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.837 node1: -15.110 node2: -15.041 node3: -15.974 node4: -16.020 node5: -14.798 node6: -14.933 node7: -15.021 node8: -14.456 node9: -14.717 node10: -14.792 node11: -14.518 node12: -15.767 node13: -17.642 node14: -18.050 node15: -17.478 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.593 node1: -13.897 node2: -13.555 node3: -13.510 node4: -14.339 node5: -14.519 node6: -13.817 node7: -12.684 node8: -12.680 node9: -12.853 node10: -13.106 node11: -12.781 node12: -13.051 node13: -13.900 node14: -14.741 node15: -14.300 
+
+---------Target Q for 0th batch-------------
+
+node0: -17.373 node1: -15.132 node2: -15.822 node3: -16.141 node4: -14.473 node5: -15.398 node6: -30.749 node7: -31.013 node8: -28.212 node9: -29.120 node10: -28.478 node11: -29.866 node12: -29.996 node13: -31.758 node14: -30.395 node15: -30.047 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.518 node1: -13.766 node2: -14.241 node3: -15.699 node4: -13.857 node5: -13.873 node6: -14.762 node7: -15.583 node8: -14.767 node9: -15.151 node10: -14.516 node11: -13.667 node12: -14.162 node13: -16.151 node14: -16.328 node15: -16.097 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.940 node1: -14.405 node2: -13.611 node3: -13.907 node4: -15.792 node5: -21.018 node6: -20.675 node7: -20.725 node8: -21.834 node9: -15.605 node10: -21.275 node11: -20.493 node12: -20.607 node13: -21.221 node14: -21.184 node15: -20.425 
+
+---------Target Q for 0th batch-------------
+
+node0: -18.024 node1: -15.314 node2: -15.197 node3: -15.982 node4: -15.902 node5: -14.288 node6: -16.997 node7: -15.458 node8: -14.052 node9: -16.801 node10: -15.706 node11: -15.036 node12: -15.916 node13: -18.157 node14: -18.360 node15: -17.661 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.968 node1: -14.410 node2: -13.672 node3: -13.364 node4: -20.938 node5: -21.020 node6: -21.037 node7: -20.297 node8: -21.029 node9: -21.848 node10: -21.685 node11: -20.613 node12: -20.426 node13: -21.276 node14: -15.151 node15: -14.764 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.431 node1: -13.178 node2: -13.040 node3: -12.503 node4: -12.503 node5: -11.915 node6: -11.969 node7: -11.609 node8: -12.589 node9: -13.117 node10: -13.609 node11: -13.590 node12: -13.941 node13: -15.349 node14: -15.631 node15: -15.066 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.916 node1: -13.174 node2: -12.447 node3: -12.173 node4: -13.786 node5: -13.104 node6: -11.473 node7: -11.847 node8: -12.514 node9: -13.502 node10: -13.319 node11: -12.610 node12: -12.875 node13: -13.543 node14: -14.171 node15: -13.778 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.619 node1: -14.649 node2: -13.586 node3: -14.110 node4: -14.803 node5: -13.012 node6: -11.701 node7: -11.860 node8: -12.823 node9: -14.504 node10: -14.642 node11: -13.167 node12: -12.488 node13: -12.825 node14: -14.139 node15: -13.879 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.610 node1: -14.661 node2: -13.568 node3: -13.424 node4: -14.474 node5: -13.267 node6: -11.676 node7: -11.821 node8: -13.186 node9: -14.130 node10: -13.922 node11: -12.563 node12: -12.075 node13: -12.563 node14: -14.109 node15: -13.878 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.909 node1: -13.715 node2: -13.414 node3: -12.483 node4: -12.204 node5: -48.919 node6: -48.690 node7: -49.190 node8: -50.619 node9: -45.699 node10: -51.806 node11: -50.289 node12: -50.312 node13: -50.586 node14: -50.574 node15: -15.556 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.125 node1: -13.262 node2: -12.920 node3: -12.242 node4: -13.063 node5: -13.030 node6: -11.591 node7: -12.000 node8: -11.939 node9: -12.794 node10: -12.839 node11: -12.969 node12: -13.872 node13: -16.073 node14: -16.360 node15: -15.773 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.535 node1: -12.431 node2: -12.000 node3: -11.939 node4: -48.979 node5: -48.590 node6: -47.912 node7: -48.274 node8: -45.002 node9: -48.969 node10: -48.595 node11: -49.199 node12: -49.044 node13: -49.122 node14: -14.419 node15: -14.128 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.978 node1: -13.374 node2: -13.439 node3: -14.145 node4: -19.080 node5: -18.603 node6: -18.221 node7: -18.091 node8: -14.616 node9: -19.380 node10: -18.963 node11: -19.372 node12: -18.974 node13: -19.241 node14: -16.094 node15: -15.709 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.822 node1: -13.056 node2: -13.304 node3: -12.292 node4: -13.067 node5: -48.791 node6: -48.112 node7: -46.742 node8: -41.825 node9: -45.902 node10: -51.483 node11: -49.392 node12: -49.467 node13: -48.913 node14: -49.323 node15: -14.019 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.925 node1: -16.092 node2: -14.219 node3: -14.188 node4: -15.275 node5: -14.435 node6: -13.402 node7: -48.123 node8: -48.005 node9: -49.070 node10: -48.067 node11: -41.044 node12: -49.727 node13: -49.383 node14: -49.642 node15: -49.093 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.645 node1: -13.930 node2: -12.400 node3: -11.695 node4: -12.945 node5: -28.872 node6: -28.425 node7: -28.381 node8: -29.219 node9: -27.611 node10: -28.069 node11: -28.721 node12: -28.606 node13: -28.743 node14: -28.779 node15: -11.766 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.936 node1: -13.113 node2: -12.878 node3: -13.702 node4: -13.338 node5: -11.577 node6: -11.721 node7: -13.224 node8: -14.566 node9: -12.358 node10: -11.542 node11: -13.150 node12: -13.842 node13: -15.539 node14: -15.987 node15: -15.616 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.902 node1: -12.193 node2: -11.349 node3: -11.172 node4: -11.969 node5: -11.558 node6: -10.482 node7: -11.317 node8: -12.666 node9: -11.324 node10: -11.073 node11: -12.461 node12: -13.598 node13: -14.452 node14: -13.172 node15: -12.822 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.467 node1: -12.142 node2: -11.916 node3: -11.557 node4: -11.814 node5: -11.339 node6: -11.194 node7: -12.067 node8: -12.980 node9: -11.843 node10: -11.910 node11: -11.885 node12: -12.791 node13: -13.999 node14: -14.489 node15: -14.118 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.945 node1: -12.135 node2: -11.346 node3: -11.808 node4: -11.868 node5: -11.965 node6: -10.995 node7: -11.971 node8: -12.454 node9: -11.406 node10: -11.001 node11: -11.337 node12: -12.024 node13: -12.166 node14: -13.005 node15: -12.822 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.563 node1: -13.011 node2: -12.272 node3: -28.367 node4: -28.611 node5: -28.458 node6: -27.716 node7: -27.533 node8: -19.855 node9: -26.132 node10: -28.002 node11: -28.809 node12: -28.734 node13: -15.342 node14: -15.656 node15: -15.437 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.350 node1: -15.135 node2: -13.990 node3: -13.383 node4: -14.360 node5: -14.306 node6: -18.066 node7: -18.842 node8: -19.919 node9: -17.749 node10: -16.651 node11: -18.170 node12: -18.533 node13: -19.450 node14: -18.795 node15: -18.352 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.584 node1: -13.178 node2: -13.545 node3: -13.909 node4: -48.598 node5: -47.861 node6: -47.603 node7: -49.305 node8: -49.764 node9: -44.223 node10: -49.198 node11: -48.851 node12: -49.028 node13: -48.990 node14: -15.682 node15: -15.541 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.578 node1: -13.744 node2: -12.524 node3: -12.466 node4: -13.296 node5: -18.505 node6: -17.623 node7: -18.445 node8: -20.165 node9: -15.623 node10: -18.330 node11: -19.212 node12: -18.504 node13: -18.510 node14: -18.893 node15: -18.384 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.649 node1: -12.373 node2: -11.691 node3: -11.851 node4: -13.736 node5: -12.429 node6: -10.488 node7: -13.496 node8: -14.002 node9: -13.042 node10: -12.285 node11: -12.392 node12: -13.988 node13: -15.614 node14: -16.033 node15: -15.608 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.126 node1: -11.993 node2: -28.397 node3: -28.387 node4: -28.630 node5: -28.352 node6: -27.488 node7: -27.466 node8: -28.355 node9: -28.221 node10: -27.922 node11: -28.760 node12: -28.495 node13: -13.566 node14: -13.972 node15: -13.749 
+
+---------Target Q for 0th batch-------------
+
+node0: -12.597 node1: -11.951 node2: -11.110 node3: -10.903 node4: -28.855 node5: -28.741 node6: -27.991 node7: -28.509 node8: -28.998 node9: -28.612 node10: -28.080 node11: -28.396 node12: -28.445 node13: -28.652 node14: -28.650 node15: -12.471 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.473 node1: -13.159 node2: -48.791 node3: -48.272 node4: -48.259 node5: -49.536 node6: -41.860 node7: -47.604 node8: -48.066 node9: -48.502 node10: -48.548 node11: -48.885 node12: -48.495 node13: -15.044 node14: -15.172 node15: -15.167 
+
+---------Target Q for 0th batch-------------
+
+node0: -15.619 node1: -28.672 node2: -28.542 node3: -28.208 node4: -28.087 node5: -16.219 node6: -27.539 node7: -29.349 node8: -30.115 node9: -27.720 node10: -25.972 node11: -28.751 node12: -14.425 node13: -15.315 node14: -15.536 node15: -15.352 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.313 node1: -11.971 node2: -11.806 node3: -11.463 node4: -11.915 node5: -11.404 node6: -11.129 node7: -12.799 node8: -12.471 node9: -12.341 node10: -11.811 node11: -11.737 node12: -12.610 node13: -13.804 node14: -14.284 node15: -13.926 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.609 node1: -12.375 node2: -12.154 node3: -11.909 node4: -11.796 node5: -11.850 node6: -18.611 node7: -19.304 node8: -19.989 node9: -18.521 node10: -18.594 node11: -18.841 node12: -19.061 node13: -19.039 node14: -19.053 node15: -18.511 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.069 node1: -12.501 node2: -11.677 node3: -11.607 node4: -29.134 node5: -29.019 node6: -28.568 node7: -29.079 node8: -29.658 node9: -28.960 node10: -28.821 node11: -29.100 node12: -29.028 node13: -29.175 node14: -29.170 node15: -13.161 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.202 node1: -12.500 node2: -11.492 node3: -12.264 node4: -13.961 node5: -13.089 node6: -11.738 node7: -13.084 node8: -14.027 node9: -14.173 node10: -12.600 node11: -11.515 node12: -12.191 node13: -12.407 node14: -13.229 node15: -13.032 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.754 node1: -12.494 node2: -12.253 node3: -12.006 node4: -12.025 node5: -19.049 node6: -18.641 node7: -19.629 node8: -19.018 node9: -18.835 node10: -18.516 node11: -19.057 node12: -19.012 node13: -19.224 node14: -19.185 node15: -14.335 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.694 node1: -12.519 node2: -12.079 node3: -12.631 node4: -12.269 node5: -29.406 node6: -28.398 node7: -29.044 node8: -29.110 node9: -28.109 node10: -28.305 node11: -28.763 node12: -28.980 node13: -29.209 node14: -29.192 node15: -28.643 
+
+---------Target Q for 0th batch-------------
+
+node0: -14.079 node1: -13.020 node2: -12.529 node3: -12.440 node4: -14.938 node5: -49.766 node6: -49.666 node7: -50.370 node8: -49.525 node9: -37.754 node10: -48.070 node11: -49.361 node12: -49.289 node13: -49.458 node14: -49.492 node15: -14.568 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.431 node1: -12.581 node2: -12.411 node3: -49.430 node4: -49.480 node5: -49.481 node6: -49.157 node7: -47.432 node8: -43.130 node9: -48.584 node10: -48.479 node11: -49.550 node12: -49.121 node13: -13.151 node14: -13.369 node15: -13.925 
+
+---------Target Q for 0th batch-------------
+
+node0: -13.511 node1: -12.947 node2: -29.479 node3: -29.321 node4: -29.800 node5: -29.199 node6: -27.346 node7: -30.208 node8: -30.760 node9: -29.666 node10: -28.318 node11: -28.255 node12: -13.893 node13: -12.642 node14: -13.430 node15: -13.299 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.643 node1: -13.873 node2: -13.694 node3: -14.593 node4: -14.821 node5: -13.739 node6: -14.452 node7: -14.045 node8: -13.343 node9: -14.964 node10: -13.257 node11: -13.021 node12: -14.379 node13: -16.247 node14: -16.721 node15: -16.293 
+
+---------Target Q for 0th batch-------------
+
+node0: -16.648 node1: -13.841 node2: -13.604 node3: -14.534 node4: -15.066 node5: -13.310 node6: -13.105 node7: -12.906 node8: -13.097 node9: -12.579 node10: -12.483 node11: -12.953 node12: -14.255 node13: -16.282 node14: -16.750 node15: -16.305 
