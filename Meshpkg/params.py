@@ -50,8 +50,8 @@ tau = 0.005
 [Replay memory 관련]
 Buffer/Batch size
 """
-buffer_size = 5000
-batch_size = 128
+buffer_size = 100
+batch_size = 10
 
 """
 [Policy 관련]

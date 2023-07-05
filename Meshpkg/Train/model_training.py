@@ -16,7 +16,7 @@ from Meshpkg.Env.Action import get_next_action
 점 전체를 한번에 신경망 Weight update 하는 함수 [Double DQN] 
 """
 
-def training_step_mean_DDQN(model, model_target, replay_memory):
+def training_step_mean_DDQN(model, model_target, replay_memory, episode):
 
     "replay memory에서 batch를 random sampling"
     indices = np.random.randint(len(replay_memory), size = p.batch_size) # 
@@ -42,9 +42,9 @@ def training_step_mean_DDQN(model, model_target, replay_memory):
     
     target_file = open("target_Q_record.txt", 'a')
     
-    target_file.write(f'\n\n---------Target Q for {0}th batch-------------\n\n')
+    target_file.write(f'\n\n---------Target Q for {0}th batch [episode:{episode}]-------------\n\n')
     for j in range(p.surf_length):
-        target_file.write(f'node{j}: {target_Q_values[0*p.batch_size +j]:.3f} ')
+        target_file.write(f' Target Q(node{j}): {target_Q_values[0*p.batch_size +j]:.3f} \n')
     target_file.close()
     
 
@@ -62,21 +62,24 @@ def training_step_mean_DDQN(model, model_target, replay_memory):
         
         all_Q_values = model([state_new, action_neighbor])
         Q_values = tf.reduce_sum(all_Q_values * mask, axis=1, keepdims=True)
-        loss_mean = tf.reduce_mean(p.loss_fn(target_Q_values, Q_values))
+        loss = tf.reduce_mean(p.loss_fn(target_Q_values, Q_values))
 
-    grads = tape.gradient(loss_mean, model.trainable_variables)
+    loss_file = open("Train_loss_record.txt", 'a')
+    loss_file.write(f'\n\n---------Training Loss [episode:{episode}]-------------\n\n')
+    loss_file.write(f' Loss(node mean): {np.array(loss):.3f} \n')
+    loss_file.close()
+    
+    grads = tape.gradient(loss, model.trainable_variables)
     # gradients = [(tf.clip_by_value(grad, -1.0, 1.0)) for grad in grads]
-
     p.optimizer.apply_gradients(zip(grads, model.trainable_variables))
 
-    return loss_mean, state_new, next_state_new, Q_values, target_Q_values
 
 
 """ 
 점(Agent) 한개씩 신경망 Weight update 하는 함수 [Double DQN] 
 """
 
-def training_step_each_DDQN(model, model_target, replay_memory):
+def training_step_each_DDQN(model, model_target, replay_memory, episode):
 
     "replay memory에서 batch를 random sampling"
     indices = np.random.randint(len(replay_memory), size = p.batch_size) # 
@@ -101,9 +104,9 @@ def training_step_each_DDQN(model, model_target, replay_memory):
     target_Q_values = reward + (1 - done) * p.discount_rate * max_next_Q
     
     target_file = open("target_Q_record.txt", 'a')
-    target_file.write(f'\n\n---------Target Q for {0}th batch-------------\n\n')
+    target_file.write(f'\n\n---------Target Q for {0}th batch [episode:{episode}]-------------\n\n')
     for j in range(p.surf_length):
-        target_file.write(f'node{j}: {target_Q_values[0*p.batch_size +j]:.3f} ')
+        target_file.write(f' Target Q(node{j}): {target_Q_values[0*p.batch_size +j]:.3f} \n')
     target_file.close()
     
 
@@ -115,8 +118,12 @@ def training_step_each_DDQN(model, model_target, replay_memory):
     "action masking"
     action = tf.convert_to_tensor(action)
     ########################################################
-    loss_state = [] 
-
+    loss = [] 
+    Q_values = []
+    
+    loss_file = open("Train_loss_record.txt", 'a')
+    loss_file.write(f'\n\n---------Training Loss [episode:{episode}]-------------\n\n')
+    
     for i in range(p.surf_length):
         
         state_sorted = [ ]
@@ -134,28 +141,20 @@ def training_step_each_DDQN(model, model_target, replay_memory):
         action_neighbor_sorted = tf.convert_to_tensor(action_neighbor_sorted)
         action_sorted = tf.convert_to_tensor(action_sorted)
         mask_sorted = tf.one_hot(action_sorted, p.n_actions)
+        target_Q_sorted = tf.convert_to_tensor(target_Q_sorted)
 
         with tf.GradientTape() as tape:
 
             all_Q_sorted = model([state_sorted, action_neighbor_sorted])                 # all_Q_values = model(state)
             Q_sorted = tf.reduce_sum(all_Q_sorted * mask_sorted, axis=1, keepdims=True)
-            loss = tf.reduce_mean(p.loss_fn(target_Q_sorted, Q_sorted))
-            loss_state.append(loss)
+            loss_agent = tf.reduce_mean(p.loss_fn(target_Q_sorted, Q_sorted))
+        
+        loss_file.write(f' Loss(node{i}): {np.array(loss_agent):.3f} \n')
+        Q_values.append(Q_sorted)    
+        loss.append(loss_agent)
 
-        grads = tape.gradient(loss, model.trainable_variables)
+        grads = tape.gradient(loss_agent, model.trainable_variables)
         p.optimizer.apply_gradients(zip(grads, model.trainable_variables))
-        
-        
-    
-    with tf.GradientTape() as tape:
-        
-        all_Q_values = model([state_new, action_neighbor])
-        Q_values = tf.reduce_sum(all_Q_values * mask, axis=1, keepdims=True)
-        loss_mean = tf.reduce_mean(p.loss_fn(target_Q_values, Q_values))
 
-    grads = tape.gradient(loss_mean, model.trainable_variables)
-    # gradients = [(tf.clip_by_value(grad, -1.0, 1.0)) for grad in grads]
+    loss_file.close()
 
-    p.optimizer.apply_gradients(zip(grads, model.trainable_variables))
-
-    return loss_mean, state_new, next_state_new, Q_values, target_Q_values
