@@ -3,7 +3,10 @@ import math
 
 import Meshpkg.params as p
 from Meshpkg.Env.Reward import get_reward
-from Meshpkg.Calculation.checkcross import check_cross
+
+from Meshpkg.Calculation.checkcross import check_cross_1
+from Meshpkg.Calculation.checkcross import check_cross_2
+
 from Meshpkg.Calculation import angle
 from Meshpkg.Env.State import layer_to_state
 
@@ -78,14 +81,27 @@ class step_class:
 
         if (any(r.get_jacobian()[1][i]) < 0) or (r.get_skew()[i] < 0):
           info.add(i)
-      is_crossed, crossed_pt = check_cross(self.volume_mesh[-1])
-      info = info.union(crossed_pt)
+          
+      is_crossed_1, crossed_pt_1 = check_cross_1(self.volume_mesh[-1])
+      is_crossed_2, crossed_pt_2 = check_cross_2(self.volume_mesh[-1], self.volume_mesh[-2])
+      
+      info = info.union(crossed_pt_1)
+      info = info.union(crossed_pt_2)
+      
       self.cur_layer += 1
 
       if self.cur_layer == self.max_layer:
         dones = np.ones(self.length)
       elif len(info) != 0:
         dones = np.ones(self.length)
+        
+        txt_file = open("cross_record.txt", 'a')
+        txt_file.write(f'\n\n ----------crossed points report: episode: {episode}---------- \n\n')
+        txt_file.write(f'list_1 {crossed_pt_1}\n')
+        txt_file.write(f'list_2 {crossed_pt_2}\n\n')
+        txt_file.write(f'info_{info}')
+        txt_file.close()
+        
       else:
         dones = np.zeros(self.length) 
 

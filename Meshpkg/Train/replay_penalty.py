@@ -21,17 +21,21 @@ def penalty_reward(replay_memory, info, step_ended, penalty_layer_scale = 5, pen
 
     for n in range(1, min(3*penalty_layer_scale+2, step_ended+1)): 
         replay_memory[-n] = list(replay_memory[-n]) # list로 가져오기
-
-        if (n == 1): # 최외각(-1층) layer(꼬임 발생 당사자)에 penalty 부여
+        
+        # 최외각(-1층) layer(꼬임 발생 당사자)에 penalty 부여
+        if (n == 1): 
             replay_memory[-n][2] = layer_penalty(replay_memory[-n][2], penalty[0])
-            
-        elif (n >= 2 and n <= penalty_layer_scale+1): #(-1 ~ -1*penalty layer_scale층) layer에 penalty 부여
+        
+         #(-1 ~ -1*penalty layer_scale층) layer에 penalty 부여
+        elif (n >= 2 and n <= penalty_layer_scale+1):
             replay_memory[-n][2] = layer_penalty(replay_memory[-n][2], penalty[1])
-            
-        elif (n >= penalty_layer_scale + 2 and n <= 2*penalty_layer_scale+1): #(-1*penalty layer_scale층 ~ -2*penalty layer_scale층) layer에 penalty 부여
+        
+        #(-1*penalty layer_scale층 ~ -2*penalty layer_scale층) layer에 penalty 부여
+        elif (n >= penalty_layer_scale + 2 and n <= 2*penalty_layer_scale+1): 
             replay_memory[-n][2] = layer_penalty(replay_memory[-n][2], penalty[2])
-            
-        elif (n >= 2*penalty_layer_scale + 2 and n <= 3*penalty_layer_scale+1): #(-2*penalty layer_scale층 ~ -3*penalty layer_scale층) layer에 penalty 부여
+        
+        #(-2*penalty layer_scale층 ~ -3*penalty layer_scale층) layer에 penalty 부여
+        elif (n >= 2*penalty_layer_scale + 2 and n <= 3*penalty_layer_scale+1): 
             replay_memory[-n][2] = layer_penalty(replay_memory[-n][2], penalty[3])
 
         replay_memory[-n] = tuple(replay_memory[-n]) # 다시 tuple로 묶기

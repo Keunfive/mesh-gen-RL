@@ -1,6 +1,6 @@
 import numpy as np
 
-def check_cross(arr: np.array):
+def check_cross_1(arr: np.array):
        """ 선분이 꼬이는 위치 출력 및 꼬임 여부 반환
            return 1:꼬임 있음, 0:꼬임 없음
 
@@ -18,10 +18,35 @@ def check_cross(arr: np.array):
                      if is_cross_pt(*np_array[i], *np_array[j]) == 1:
                             # print(f"({i},{i + 1}), ({j},{j + 1})")
                             crossed_pt_list.extend([i,i+1,j,j+1])
+                            
                             flag = 1
        if flag:
               return 1, crossed_pt_list
+       
        return 0, crossed_pt_list
+
+
+def check_cross_2(first_layer, second_layer): # 한 Layer에서 Action 실행시 (b_1 -> b_2) 이전 Action (a_1 -> a_2)과 꼬이지 않는지 여부를 확인하는 함수
+
+       def ccw(p1, p2, p3):
+              return (p2[0] - p1[0]) * (p3[1] - p1[1]) > (p2[1] - p1[1]) * (p3[0] - p1[0])
+
+       def intersect(a1, a2, b1, b2):
+              # check if the segments (a1, a2) and (b1, b2) intersect
+              ccw_a1 = ccw(a1, b1, b2)
+              ccw_a2 = ccw(a2, b1, b2)
+              ccw_b1 = ccw(b1, a1, a2)
+              ccw_b2 = ccw(b2, a1, a2)
+              return (ccw_a1 * ccw_a2 <= 0) and (ccw_b1 * ccw_b2 <= 0)
+       crossed_pt_list_2 = [ ]
+       for i in range(len(first_layer)):
+              if intersect(second_layer[i - 1], first_layer[i - 1], second_layer[i], first_layer[i]):
+                     crossed_pt_list_2.extend([i-1, i])
+       if len(crossed_pt_list_2) == 0:
+              return 0, crossed_pt_list_2
+       else:
+              return 1, crossed_pt_list_2
+
 
 def new_pt(arr: np.array) -> np.array:
        """ 연속된 두 점을 선분의 형태로 바꾸는 함수 """
@@ -88,4 +113,4 @@ if __name__ == "__main__":
                           [1.52426146, -0.10041831],
                           [1.47601587, 0.01985301]])
 
-       check = check_cross(points)
+       check = check_cross_1(points)
